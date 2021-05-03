@@ -22,7 +22,6 @@
 :: adequit:: adequate
 :: adequite:: adequate
 :: adn:: and
-:: anmd:: and
 :: advanage:: advantage
 :: affraid:: afraid
 :: afterthe:: after the
@@ -59,8 +58,12 @@
 :: andt h e:: and the
 :: andteh:: and the
 :: andthe:: and the
+:: anmd:: and
 :: anothe:: another
 :: anual:: annual
+:: aoppend:: append
+:: apge:: page
+:: apopend:: append
 :: apparant:: apparent
 :: apparrent:: apparent
 :: appearence:: appearance
@@ -89,10 +92,11 @@
 :: atthe:: at the
 :: audeince:: audience
 :: audiance:: audience
-:: availalbe:: available
 :: avaialble:: available
+:: availalbe:: available
 :: awya:: away
 :: aywa:: away
+:: bahs:: bash
 :: bakc:: back
 :: balence:: balance
 :: ballance:: balance
@@ -124,14 +128,16 @@
 :: betwen:: between
 :: beutiful:: beautiful
 :: boxs:: boxes
+:: branhc:: branch
 :: brodcast:: broadcast
 :: butthe:: but the
+:: bvault:: vault
 :: bve:: be
 :: caf:: cafe
 :: caharcter:: character
 :: calcullated:: calculated
-:: campain:: campaign
 :: calulated:: calculated
+:: campain:: campaign
 :: candidtae:: candidate
 :: candidtaes:: candidates
 :: catagory:: category
@@ -158,17 +164,20 @@
 :: claer:: clear
 :: claered:: cleared
 :: claerly:: clearly
-:: cliant:: client
 :: cleint:: client
+:: cliant:: client
 :: cliche:: clich
 :: clickign:: clicking
 :: cmae:: came
 :: cna:: can
+:: co[pying:: copying
 :: colection:: collection
+:: comamnd:: command
 :: comanies:: companies
 :: comany:: company
 :: comapnies:: companies
 :: comapny:: company
+:: comaprison:: comparison
 :: combintation:: combination
 :: comited:: committed
 :: comittee:: committee
@@ -182,12 +191,12 @@
 :: comntain:: contain
 :: comntains:: contains
 :: compair:: compare
-:: compnay:: company
 :: compleated:: completed
 :: compleatly:: completely
 :: compleatness:: completeness
 :: completly:: completely
 :: completness:: completeness
+:: compnay:: company
 :: composate:: composite
 :: comtain:: contain
 :: comtains:: contains
@@ -205,6 +214,7 @@
 :: convertable:: convertible
 :: cooparate:: cooperate
 :: cooporate:: cooperate
+:: cop[ying:: copying
 :: corproation:: corporation
 :: corproations:: corporations
 :: corruptable:: corruptible
@@ -247,8 +257,8 @@
 :: developors:: developers
 :: develpment:: development
 :: diaplay:: display
-:: didnt':: didn't
 :: didnot:: didn't
+:: didnt':: didn't
 :: difefrent:: different
 :: diferences:: differences
 :: differance:: difference
@@ -288,10 +298,11 @@
 :: ehr:: her
 :: eligable:: eligible
 :: embarass:: embarrass
-:: env var:: environment variable
 :: Englihs:: English
 :: enought:: enough
 :: entree:: entr
+:: env var:: environment variable
+:: environemtn:: environment
 :: equippment:: equipment
 :: equivalant:: equivalent
 :: esle:: else
@@ -309,7 +320,9 @@
 :: experienc:: experience
 :: exprience:: experience
 :: exprienced:: experienced
+:: exzport:: export
 :: eyt:: yet
+:: ezxport:: export
 :: faeture:: feature
 :: faetures:: features
 :: familair:: familiar
@@ -318,22 +331,23 @@
 :: fammiliar:: familiar
 :: feild:: field
 :: feilds:: fields
-:: fiel:: file
-:: fiels:: files
 :: fianlly:: finally
 :: fidn:: find
+:: fiel:: file
+:: fiels:: files
 :: finallty:: finally
 :: finalyl:: finally
 :: firends:: friends
 :: firts:: first
+:: flake78:: flake8
+:: flake87:: flake8
+:: folloiwng:: following
 :: follwo:: follow
 :: follwoing:: following
-:: folloiwng:: following
-:: ofr:: for
 :: fora:: for a
 :: foriegn:: foreign
-:: forigen:: foreign
 :: forieng:: foreign
+:: forigen:: foreign
 :: forthe:: for
 :: forwrd:: forward
 :: forwrds:: forwards
@@ -386,6 +400,7 @@
 :: hge:: he
 :: hismelf:: himself
 :: hlep:: help
+:: hopefulyl:: hopefully
 :: hsa:: has
 :: hsi:: his
 :: hte:: the
@@ -401,8 +416,8 @@
 :: idae:: idea
 :: idaes:: ideas
 :: identofy:: identify
-:: ihs:: his
 :: ifle:: file
+:: ihs:: his
 :: imediate:: immediate
 :: imediatly:: immediately
 :: immediatly:: immediately
@@ -412,8 +427,8 @@
 :: improvemnt:: improvement
 :: improvment:: improvement
 :: includ:: include
-:: inconsitent:: inconsistent
 :: inconsitency:: inconsistency
+:: inconsitent:: inconsistent
 :: indecate:: indicate
 :: indenpendence:: independence
 :: indenpendent:: independent
@@ -424,8 +439,7 @@
 :: infomation:: information
 :: informatoin:: information
 :: inital:: initial
-:: iqniry:: inquiry
-:: iqnuiry:: inquiry
+:: inlcudes:: includes
 :: instaleld:: installed
 :: insted:: instead
 :: instruciton:: instruction
@@ -434,9 +448,12 @@
 :: int h e:: in the
 :: interum:: interim
 :: inthe:: in
-:: invocie:: invoice
 :: invioce:: invoice
+:: invocie:: invoice
 :: inwhich:: in which
+:: iqniry:: inquiry
+:: iqnuiry:: inquiry
+:: ither:: either
 :: itis:: it is
 :: ititial:: initial
 :: itnerest:: interest
@@ -458,6 +475,7 @@
 :: konwn:: known
 :: konws:: knows
 :: labratory:: laboratory
+:: laready:: already
 :: lastyear:: last year
 :: learnign:: learning
 :: lenght:: length
@@ -483,8 +501,9 @@
 :: managment:: management
 :: mantain:: maintain
 :: marraige:: marriage
-:: menaing:: meaning
+:: meessage:: message
 :: memeber:: member
+:: menaing:: meaning
 :: merchent:: merchant
 :: mesage:: message
 :: mesages:: messages
@@ -495,12 +514,11 @@
 :: mkaes:: makes
 :: mkaing:: making
 :: moeny:: money
-:: morgage:: mortgage
 :: mohter:: mother
+:: morgage:: mortgage
 :: mroe:: more
 :: mysefl:: myself
 :: myu:: my
-:: nmae:: name
 :: necassarily:: necessarily
 :: necassary:: necessary
 :: neccessarily:: necessarily
@@ -509,6 +527,7 @@
 :: necesary:: necessary
 :: negotiaing:: negotiating
 :: nkow:: know
+:: nmae:: name
 :: nothign:: nothing
 :: nver:: never
 :: nwe:: new
@@ -522,6 +541,7 @@
 :: ocur:: occur
 :: oeprator:: operator
 :: ofits:: of its
+:: ofr:: for
 :: oft he:: of the
 :: oging:: going
 :: ohter:: other
@@ -548,7 +568,6 @@
 :: owrk:: work
 :: owuld:: would
 :: oxident:: oxidant
-:: apge:: page
 :: papaer:: paper
 :: parliment:: parliament
 :: partof:: part of
@@ -576,9 +595,9 @@
 :: possable:: possible
 :: postition:: position
 :: potentialy:: potentially
-:: pretrty:: pregnant
 :: pregnent:: pregnant
 :: presance:: presence
+:: pretrty:: pregnant
 :: probelm:: problem
 :: probelms:: problems
 :: prominant:: prominent
@@ -597,6 +616,7 @@
 :: questoin:: question
 :: quetion:: question
 :: quetions:: questions
+:: readonlyu:: readonly
 :: realyl:: really
 :: reccomend:: recommend
 :: reccommend:: recommend
@@ -610,6 +630,8 @@
 :: recomended:: recommended
 :: reconize:: recognize
 :: recrod:: record
+:: refering:: referring
+:: registery:: registry
 :: religous:: religious
 :: reluctent:: reluctant
 :: remeber:: remember
@@ -634,8 +656,8 @@
 :: restuarant:: restaurant
 :: reult:: result
 :: reveiw:: review
-:: reveiwed:: reviewed
 :: reveiw:: review
+:: reveiwed:: reviewed
 :: reveiwing:: reviewing
 :: rumers:: rumors
 :: rwite:: write
@@ -645,7 +667,6 @@
 :: saidt h e::said the
 :: saidthat:: said that
 :: saidthe:: said the
-:: smaple:: sample
 :: scedule:: schedule
 :: sceduled:: scheduled
 :: secratary:: secretary
@@ -659,6 +680,7 @@
 :: sevral:: several
 :: shcool:: school
 :: shesaid:: she said
+:: shfit:: shift
 :: shineing:: shining
 :: shiped:: shipped
 :: shoudl:: should
@@ -670,6 +692,7 @@
 :: sincerly:: sincerely
 :: sitll:: still
 :: smae:: same
+:: smaple:: sample
 :: smoe:: some
 :: soem:: some
 :: sohw:: show
@@ -696,30 +719,33 @@
 :: struggel:: struggle
 :: strugle:: struggle
 :: studnet:: student
+:: suage:: usage
 :: successfull:: successful
 :: successfuly:: successfully
 :: successfulyl:: successfully
 :: sucess:: success
 :: sucessfull:: successful
+:: Sudnay:: Sunday
 :: sufficiant:: sufficient
-:: suggestin:: suggestion
-:: suggestins:: suggestions
 :: suggesiton:: suggestion
 :: suggesitons:: suggestions
-:: suggeston:: suggestion
+:: suggestin:: suggestion
+:: suggestins:: suggestions
 :: suggestins:: suggestions
 :: suggestoin:: suggestion
 :: suggestoins:: suggestions
-:: Sudnay:: Sunday
+:: suggeston:: suggestion
 :: suposed:: supposed
 :: suppossed:: supposed
 :: suprise:: surprise
 :: suprised:: surprised
 :: swiming:: swimming
-:: tahn:: than
+:: sybntax:: syntax
+:: synbtax:: syntax
 :: tahank:: thank
-:: tahnk:: thank
 :: tahanks:: thanks
+:: tahn:: than
+:: tahnk:: thank
 :: tahnks:: thanks
 :: taht:: that
 :: takign:: taking
@@ -733,10 +759,10 @@
 :: termoil:: turmoil
 :: tghe:: the
 :: tghis:: this
-:: thaks:: thanks
 :: thak:: thank
-:: thansk:: thanks
 :: thakns:: thanks
+:: thaks:: thanks
+:: thansk:: thanks
 :: thatt he:: that the
 :: thatthe:: that the
 :: the t eh:: that the
@@ -765,6 +791,7 @@
 :: tht:: that
 :: thta:: that
 :: tihs:: this
+:: timetsamp:: timestamp
 :: timne:: time
 :: tiogether:: together
 :: tje:: the
@@ -805,15 +832,16 @@
 :: useing:: using
 :: usualyl:: usually
 :: varaible:: :variable
+:: varaible:: variable
 :: varianble:: variable
 :: veyr:: very
 :: virtualyl:: virtually
 :: vrey:: very
 :: vulnerible:: vulnerable
 :: wa s not:: wasn't
-:: wasnt':: wasn't
 :: waht:: what
 :: warrent:: warrant
+:: wasnt':: wasn't
 :: watn:: want
 :: wehn:: when
 :: werre:: were
