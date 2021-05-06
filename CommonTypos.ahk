@@ -1,3 +1,8 @@
+
+:: especialyl:: especially
+:: forieng:: foreign
+:: forwrds:: forwards
+:: oging:: going
 :: abbout:: about
 :: abotu:: about
 :: abouta:: about a
@@ -168,6 +173,7 @@
 :: cliant:: client
 :: cliche:: clich
 :: clickign:: clicking
+:: cloen:: clone
 :: cmae:: came
 :: cna:: can
 :: co[pying:: copying
@@ -306,8 +312,7 @@
 :: equippment:: equipment
 :: equivalant:: equivalent
 :: esle:: else
-:: especally:: especially
-:: especialyl:: especially
+    :: especally:: especially
 :: espesially:: especially
 :: excellant:: excellent
 :: excercise:: exercise
@@ -345,12 +350,10 @@
 :: follwo:: follow
 :: follwoing:: following
 :: fora:: for a
-:: foriegn:: foreign
-:: forieng:: foreign
+    :: foriegn:: foreign
 :: forigen:: foreign
 :: forthe:: for
-:: forwrd:: forward
-:: forwrds:: forwards
+    :: forwrd:: forward
 :: foudn:: found
 :: foward:: forward
 :: fowards:: forwards
@@ -477,6 +480,7 @@
 :: labratory:: laboratory
 :: laready:: already
 :: lastyear:: last year
+:: launc:: launch
 :: learnign:: learning
 :: lenght:: length
 :: levle:: level
@@ -535,6 +539,7 @@
 :: obediant:: obedient
 :: ocasion:: occasion
 :: occassion:: occasion
+:: occassionally:: occasionally
 :: occured:: occurred
 :: occurence:: occurrence
 :: occurrance:: occurrence
@@ -543,7 +548,6 @@
 :: ofits:: of its
 :: ofr:: for
 :: oft he:: of the
-:: oging:: going
 :: ohter:: other
 :: omre:: more
 :: oneof:: one of
@@ -562,6 +566,7 @@
 :: orginization:: organization
 :: orginized:: organized
 :: otehr:: other
+:: otpions:: options
 :: otu:: out
 :: outof:: out of
 :: overthe:: over the
@@ -632,6 +637,7 @@
 :: recrod:: record
 :: refering:: referring
 :: registery:: registry
+:: reinstante:: reinstate
 :: religous:: religious
 :: reluctent:: reluctant
 :: remeber:: remember
@@ -684,10 +690,12 @@
 :: shineing:: shining
 :: shiped:: shipped
 :: shoudl:: should
+:: shoulnd't:: shouldn't
 :: showinf:: showing
 :: signifacnt:: significant
 :: simalar:: similar
 :: similiar:: similar
+:: simplfiy:: simplify
 :: simpyl:: simply
 :: sincerly:: sincerely
 :: sitll:: still
@@ -697,11 +705,13 @@
 :: soem:: some
 :: sohw:: show
 :: soical:: social
+:: somehwere:: somewhere
 :: somethign:: something
 :: someting:: something
 :: somewaht:: somewhat
 :: somthing:: something
 :: somtimes:: sometimes
+:: somwehere:: somewhere
 :: sot hat:: so that
 :: soudn:: sound
 :: spanaird:: spaniard
@@ -870,6 +880,7 @@
 :: woh:: who
 :: wohle:: whole
 :: wokr:: work
+:: workign::working
 :: woudl:: would
 :: wouldbe:: would be
 :: wriet:: write
@@ -888,3 +899,5 @@
 :: ytou:: you
 :: yuo:: you
 :: yuor:: your
+:: argyuments:: arguments
+:: argyument:: argument
