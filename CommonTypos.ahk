@@ -1,9 +1,10 @@
-
-:: especialyl:: especially
-:: forieng:: foreign
-:: forwrds:: forwards
-:: oging:: going
+    :: especally:: especially
+    :: foriegn:: foreign
+    :: forwrd:: forward
+    :: fromthe:: from the
+    :: oging:: going
 :: abbout:: about
+:: abnd:: and
 :: abotu:: about
 :: abouta:: about a
 :: aboutit:: about it
@@ -84,6 +85,8 @@
 :: aquisitions:: acquisitions
 :: arguement:: argument
 :: arguements:: arguments
+:: argyument:: argument
+:: argyuments:: arguments
 :: arond:: around
 :: artical:: article
 :: articel:: article
@@ -101,6 +104,7 @@
 :: availalbe:: available
 :: awya:: away
 :: aywa:: away
+:: bahs:: bash
 :: bahs:: bash
 :: bakc:: back
 :: balence:: balance
@@ -132,6 +136,7 @@
 :: benifits:: benefits
 :: betwen:: between
 :: beutiful:: beautiful
+:: bew:: new
 :: boxs:: boxes
 :: branhc:: branch
 :: brodcast:: broadcast
@@ -273,6 +278,7 @@
 :: differemt:: different
 :: differnt:: different
 :: diffrent:: different
+:: dioxine:: dioxide
 :: directer:: director
 :: directers:: directors
 :: directiosn:: direction
@@ -312,8 +318,9 @@
 :: equippment:: equipment
 :: equivalant:: equivalent
 :: esle:: else
-    :: especally:: especially
+:: especialyl:: especially
 :: espesially:: especially
+:: exaplme:: example
 :: excellant:: excellent
 :: excercise:: exercise
 :: exchagne:: exchange
@@ -321,6 +328,7 @@
 :: excitment:: excitement
 :: exhcange:: exchange
 :: exhcanges:: exchanges
+:: exmpale:: example
 :: experiance:: experience
 :: experienc:: experience
 :: exprience:: experience
@@ -350,10 +358,10 @@
 :: follwo:: follow
 :: follwoing:: following
 :: fora:: for a
-    :: foriegn:: foreign
+:: forieng:: foreign
 :: forigen:: foreign
 :: forthe:: for
-    :: forwrd:: forward
+:: forwrds:: forwards
 :: foudn:: found
 :: foward:: forward
 :: fowards:: forwards
@@ -361,8 +369,7 @@
 :: freindly:: friendly
 :: freinds:: friends
 :: frmo:: from
-:: fromt he:: from the
-:: fromthe:: from the
+:: fro:: for
 :: furneral:: funeral
 :: fwe:: few
 :: garantee:: guarantee
@@ -372,6 +379,7 @@
 :: gerat:: great
 :: geting:: getting
 :: gettin:: getting
+:: gi5t:: git
 :: gievn:: given
 :: giveing:: giving
 :: gloabl:: global
@@ -383,6 +391,7 @@
 :: gruops:: groups
 :: grwo:: grow
 :: guidlines:: guidelines
+:: guit:: git
 :: hadbeen:: had been
 :: haev:: have
 :: hapen:: happen
@@ -523,6 +532,7 @@
 :: mroe:: more
 :: mysefl:: myself
 :: myu:: my
+:: naother:: another
 :: necassarily:: necessarily
 :: necassary:: necessary
 :: neccessarily:: necessarily
@@ -547,7 +557,7 @@
 :: oeprator:: operator
 :: ofits:: of its
 :: ofr:: for
-:: oft he:: of the
+:: oging:: going
 :: ohter:: other
 :: omre:: more
 :: oneof:: one of
@@ -563,6 +573,7 @@
 :: opposit:: opposite
 :: oppotunities:: opportunities
 :: oppotunity:: opportunity
+:: opython:: python
 :: orginization:: organization
 :: orginized:: organized
 :: otehr:: other
@@ -746,6 +757,7 @@
 :: suggestoins:: suggestions
 :: suggeston:: suggestion
 :: suposed:: supposed
+:: suppoesd:: supposed
 :: suppossed:: supposed
 :: suprise:: surprise
 :: suprised:: surprised
@@ -775,7 +787,6 @@
 :: thansk:: thanks
 :: thatt he:: that the
 :: thatthe:: that the
-:: the t eh:: that the
 :: thecompany:: the company
 :: thefirst:: the first
 :: thegovernment:: the goverment
@@ -785,6 +796,7 @@
 :: there\s :: there's
 :: theri:: their
 :: thesame:: the same
+:: thet teh:: that the
 :: thetwo:: the two
 :: thgat:: that
 :: thge:: the
@@ -852,6 +864,8 @@
 :: waht:: what
 :: warrent:: warrant
 :: wasnt':: wasn't
+:: wathc:: watch
+:: wathcing:: watching
 :: watn:: want
 :: wehn:: when
 :: werre:: were
@@ -899,5 +913,3 @@
 :: ytou:: you
 :: yuo:: you
 :: yuor:: your
-:: argyuments:: arguments
-:: argyument:: argument
