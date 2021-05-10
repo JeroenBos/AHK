@@ -1,8 +1,3 @@
-    :: especally:: especially
-    :: foriegn:: foreign
-    :: forwrd:: forward
-    :: fromthe:: from the
-    :: oging:: going
 :: abbout:: about
 :: abnd:: and
 :: abotu:: about
@@ -301,6 +296,7 @@
 :: doind:: doing
 :: dollers:: dollars
 :: donig:: doing
+:: doyuble:: double
 :: driveing:: driving
 :: drnik:: drink
 :: efel:: feel
@@ -318,6 +314,7 @@
 :: equippment:: equipment
 :: equivalant:: equivalent
 :: esle:: else
+:: especialyl:: especially
 :: especialyl:: especially
 :: espesially:: especially
 :: exaplme:: example
@@ -358,9 +355,11 @@
 :: follwo:: follow
 :: follwoing:: following
 :: fora:: for a
+:: foriegn:: foreign
 :: forieng:: foreign
 :: forigen:: foreign
 :: forthe:: for
+:: forwrd:: forward
 :: forwrds:: forwards
 :: foudn:: found
 :: foward:: forward
@@ -370,6 +369,9 @@
 :: freinds:: friends
 :: frmo:: from
 :: fro:: for
+:: fro::for
+:: fromthe:: from the
+:: fromthe::from the
 :: furneral:: funeral
 :: fwe:: few
 :: garantee:: guarantee
@@ -492,6 +494,7 @@
 :: launc:: launch
 :: learnign:: learning
 :: lenght:: length
+:: lerave:: leave
 :: levle:: level
 :: libary:: library
 :: librarry:: library
@@ -558,6 +561,7 @@
 :: ofits:: of its
 :: ofr:: for
 :: oging:: going
+:: oging:: going
 :: ohter:: other
 :: omre:: more
 :: oneof:: one of
@@ -587,6 +591,7 @@
 :: papaer:: paper
 :: parliment:: parliament
 :: partof:: part of
+:: patsh:: paths
 :: paymetn:: payment
 :: paymetns:: payments
 :: pciture:: picture
@@ -671,6 +676,8 @@
 :: responsiblity:: responsibility
 :: restaraunt:: restaurant
 :: restuarant:: restaurant
+:: retyrn:: return
+:: retyurn:: return
 :: reult:: result
 :: reveiw:: review
 :: reveiw:: review
