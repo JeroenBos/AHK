@@ -1,5 +1,6 @@
 {
 	"recommendations": [
-        "Tyriar.sort-lines"
+        "Tyriar.sort-lines",
+		"cweijan.vscode-autohotkey-plus",
 	]
 }
