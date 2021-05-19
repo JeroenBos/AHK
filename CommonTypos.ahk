@@ -6,6 +6,7 @@
 ::aboutthe::about the
 ::abscence::absence
 ::accesories::accessories
+::acche::cache
 ::accidant::accident
 ::accomodate::accommodate
 ::accordingto::according to
@@ -29,6 +30,10 @@
 ::againstt he::against the
 ::aganist::against
 ::aggresive::aggressive
+::aggrevate::aggravate
+::aggrevated::aggravated
+::aggrevates::aggravates
+::aggrevating::aggravating
 ::agian::again
 ::agreemeent::agreement
 ::agreemeents::agreements
@@ -339,6 +344,7 @@
 ::ezxport::export
 ::faeture::feature
 ::faetures::features
+::falke8::flake8
 ::familair::familiar
 ::familar::familiar
 ::familliar::familiar
@@ -354,6 +360,7 @@
 ::finalyl::finally
 ::firends::friends
 ::firts::first
+::fklake8::flake8
 ::flake78::flake8
 ::flake87::flake8
 ::folloiwng::following
@@ -445,6 +452,7 @@
 ::importent::important
 ::importnat::important
 ::impossable::impossible
+::impotr::import
 ::improt::import
 ::improvemnt::improvement
 ::improvment::improvement
@@ -710,6 +718,7 @@
 ::sceduled::scheduled
 ::secratary::secretary
 ::sectino::section
+::seesion::session
 ::seh::she
 ::selectoin::selection
 ::sentance::sentence
@@ -803,6 +812,7 @@
 ::teh::the
 ::tehy::they
 ::tellt he::tell the
+::tempalte::template
 ::termoil::turmoil
 ::tghe::the
 ::tghis::this
