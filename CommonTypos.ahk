@@ -54,6 +54,7 @@
 :: Ameria:: America
 :: amke:: make
 :: amkes:: makes
+:: amster:: master
 :: anbd:: and
 :: andone:: and one
 :: andt h e:: and the
@@ -185,6 +186,8 @@
 :: comapny:: company
 :: comaprison:: comparison
 :: combintation:: combination
+:: combnation:: combination
+:: combnations:: combinations
 :: comited:: committed
 :: comittee:: committee
 :: commadn:: command
@@ -305,6 +308,7 @@
 :: eforts:: efforts
 :: ehr:: her
 :: eligable:: eligible
+:: elngth:: length 
 :: embarass:: embarrass
 :: Englihs:: English
 :: enought:: enough
@@ -341,6 +345,7 @@
 :: fammiliar:: familiar
 :: feild:: field
 :: feilds:: fields
+:: feixtures:: fixtures
 :: fianlly:: finally
 :: fidn:: find
 :: fiel:: file
@@ -383,6 +388,7 @@
 :: gettin:: getting
 :: gi5t:: git
 :: gievn:: given
+:: gile:: file
 :: giveing:: giving
 :: gloabl:: global
 :: goign:: going
@@ -396,6 +402,7 @@
 :: guit:: git
 :: hadbeen:: had been
 :: haev:: have
+:: hanlded:: handled
 :: hapen:: happen
 :: hapened:: happened
 :: hapening:: happening
@@ -438,6 +445,7 @@
 :: importent:: important
 :: importnat:: important
 :: impossable:: impossible
+:: improt:: import
 :: improvemnt:: improvement
 :: improvment:: improvement
 :: includ:: include
@@ -460,6 +468,7 @@
 :: instrucitons:: instructions
 :: insurence:: insurance
 :: int h e:: in the
+:: int he:: in the
 :: interum:: interim
 :: inthe:: in
 :: invioce:: invoice
@@ -467,6 +476,7 @@
 :: inwhich:: in which
 :: iqniry:: inquiry
 :: iqnuiry:: inquiry
+:: isntallation:: installation
 :: ither:: either
 :: itis:: it is
 :: ititial:: initial
@@ -607,6 +617,7 @@
 :: permanant:: permanent
 :: perminent:: permanent
 :: personalyl:: personally
+:: placehodler:: placeholder
 :: pleas:: please
 :: pleasent:: pleasant
 :: poeple:: people
@@ -616,9 +627,11 @@
 :: possable:: possible
 :: postition:: position
 :: potentialy:: potentially
+:: practisch:: praktisch
 :: pregnent:: pregnant
 :: presance:: presence
 :: pretrty:: pregnant
+:: prevenmts:: prevents
 :: probelm:: problem
 :: probelms:: problems
 :: prominant:: prominent
@@ -658,10 +671,12 @@
 :: reluctent:: reluctant
 :: remeber:: remember
 :: reommend:: recommend
+:: reprentation:: representation
 :: representativs:: representatives
 :: representives:: representatives
 :: represetned:: represented
 :: represnt:: represent
+:: requets:: request
 :: requirment:: requirement
 :: requirments:: requirements
 :: reserach:: research
@@ -721,6 +736,7 @@
 :: smaple:: sample
 :: smoe:: some
 :: soem:: some
+:: soemthing:: something
 :: sohw:: show
 :: soical:: social
 :: somehwere:: somewhere
@@ -748,6 +764,7 @@
 :: strugle:: struggle
 :: studnet:: student
 :: suage:: usage
+:: sublclass::subclass
 :: successfull:: successful
 :: successfuly:: successfully
 :: successfulyl:: successfully
@@ -781,6 +798,7 @@
 :: talekd:: talked
 :: talkign:: talking
 :: tath:: that
+:: taylored:: tailored
 :: tecnical:: technical
 :: teh:: the
 :: tehy:: they
@@ -829,6 +847,8 @@
 :: tkaes:: takes
 :: tkaing:: taking
 :: tlaking:: talking
+:: todaty:: today
+:: todayt:: today
 :: todya:: today
 :: togehter:: together
 :: toldt he:: told the
@@ -855,9 +875,11 @@
 :: understnad:: understand
 :: undert he:: under the
 :: UnitedStates:: United States
+:: uniwp:: unwip
 :: unliek:: unlike
 :: unpleasently:: unpleasantly
 :: untilll:: until
+:: untitest:: unittest
 :: useing:: using
 :: usualyl:: usually
 :: varaible:: :variable
@@ -901,7 +923,7 @@
 :: woh:: who
 :: wohle:: whole
 :: wokr:: work
-:: workign::working
+:: workign:: working
 :: woudl:: would
 :: wouldbe:: would be
 :: wriet:: write
