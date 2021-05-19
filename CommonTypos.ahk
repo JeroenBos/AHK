@@ -1,944 +1,944 @@
-:: abbout:: about
-:: abnd:: and
-:: abotu:: about
-:: abouta:: about a
-:: aboutit:: about it
-:: aboutthe:: about the
-:: abscence:: absence
-:: accesories:: accessories
-:: accidant:: accident
-:: accomodate:: accommodate
-:: accordingto:: according to
-:: accross:: across
-:: acheive:: achieve
-:: acheived:: achieved
-:: acheiving:: achieving
-:: acn:: can
-:: acommodate:: accommodate
-:: acomodate:: accommodate
-:: actualyl:: actually
-:: additinal:: additional
-:: additioanl:: additional
-:: addtional:: additional
-:: adequit:: adequate
-:: adequite:: adequate
-:: adn:: and
-:: advanage:: advantage
-:: affraid:: afraid
-:: afterthe:: after the
-:: againstt he:: against the
-:: aganist:: against
-:: aggresive:: aggressive
-:: agian:: again
-:: agreemeent:: agreement
-:: agreemeents:: agreements
-:: agreemnet:: agreement
-:: agreemnets:: agreements
-:: agressive:: aggressive
-:: ahppen:: happen
-:: ahve:: have
-:: allwasy:: always
-:: allwyas:: always
-:: almots:: almost
-:: almsot:: almost
-:: alomst:: almost
-:: alot:: a lot
-:: alraedy:: already
-:: alreayd:: already
-:: alreday:: already
-:: alwasy:: always
-:: alwats:: always
-:: alway:: always
-:: alwyas:: always
-:: amde:: made
-:: Ameria:: America
-:: amke:: make
-:: amkes:: makes
-:: amster:: master
-:: anbd:: and
-:: andone:: and one
-:: andt h e:: and the
-:: andteh:: and the
-:: andthe:: and the
-:: anmd:: and
-:: anothe:: another
-:: anual:: annual
-:: aoppend:: append
-:: apge:: page
-:: apopend:: append
-:: apparant:: apparent
-:: apparrent:: apparent
-:: appearence:: appearance
-:: appeares:: appears
-:: applicaiton:: application
-:: applicaitons:: applications
-:: applyed:: applied
-:: appointiment:: appointment
-:: apprecaited:: appreciated
-:: approrpiate:: appropriate
-:: approrpriate:: appropriate
-:: aquisition:: acquisition
-:: aquisitions:: acquisitions
-:: arguement:: argument
-:: arguements:: arguments
-:: argyument:: argument
-:: argyuments:: arguments
-:: arond:: around
-:: artical:: article
-:: articel:: article
-:: asdvertising:: advertising
-:: askt h e:: ask the
-:: assistent:: assistant
-:: asthe:: as the
-:: atention:: attention
-:: atmospher:: atmosphere
-:: attentioin:: attention
-:: atthe:: at the
-:: audeince:: audience
-:: audiance:: audience
-:: avaialble:: available
-:: availalbe:: available
-:: awya:: away
-:: aywa:: away
-:: bahs:: bash
-:: bahs:: bash
-:: bakc:: back
-:: balence:: balance
-:: ballance:: balance
-:: baout:: about
-:: bcak:: back
-:: beacuse:: because
-:: becasue:: because
-:: becaus:: because
-:: becausea:: because a
-:: becauseof:: because of
-:: becausethe:: because the
-:: becauseyou:: because you
-:: becomeing:: becoming
-:: becomming:: becoming
-:: becuase:: because
-:: becuse:: because
-:: befoer:: before
-:: beggining:: beginning
-:: begining:: beginning
-:: beginining:: beginning
-:: beleiev:: believe
-:: beleieve:: believe
-:: beleif:: belief
-:: beleive:: believe
-:: beleived:: believed
-:: beleives:: believes
-:: benifit:: benefit
-:: benifits:: benefits
-:: betwen:: between
-:: beutiful:: beautiful
-:: bew:: new
-:: boxs:: boxes
-:: branhc:: branch
-:: brodcast:: broadcast
-:: butthe:: but the
-:: bvault:: vault
-:: bve:: be
-:: caf:: cafe
-:: caharcter:: character
-:: calcullated:: calculated
-:: calulated:: calculated
-:: campain:: campaign
-:: candidtae:: candidate
-:: candidtaes:: candidates
-:: catagory:: category
-:: categiory:: category
-:: certian:: certain
-:: challange:: challenge
-:: challanges:: challenges
-:: chaneg:: change
-:: chanegs:: changes
-:: changable:: changeable
-:: changeing:: changing
-:: changng:: changing
-:: charachter:: character
-:: charachters:: characters
-:: charactor:: character
-:: charecter:: character
-:: charector:: character
-:: cheif:: chief
-:: chekc:: check
-:: chnage:: change
-:: chruch:: church
-:: cieling:: ceiling
-:: circut:: circuit
-:: claer:: clear
-:: claered:: cleared
-:: claerly:: clearly
-:: cleint:: client
-:: cliant:: client
-:: cliche:: clich
-:: clickign:: clicking
-:: cloen:: clone
-:: cmae:: came
-:: cna:: can
-:: co[pying:: copying
-:: colection:: collection
-:: comamnd:: command
-:: comanies:: companies
-:: comany:: company
-:: comapnies:: companies
-:: comapny:: company
-:: comaprison:: comparison
-:: combintation:: combination
-:: combnation:: combination
-:: combnations:: combinations
-:: comited:: committed
-:: comittee:: committee
-:: commadn:: command
-:: comming:: coming
-:: commitee:: committee
-:: committe:: committee
-:: committment:: commitment
-:: committments:: commitments
-:: committy:: committee
-:: comntain:: contain
-:: comntains:: contains
-:: compair:: compare
-:: compleated:: completed
-:: compleatly:: completely
-:: compleatness:: completeness
-:: completly:: completely
-:: completness:: completeness
-:: compnay:: company
-:: composate:: composite
-:: comtain:: contain
-:: comtains:: contains
-:: comunicate:: communicate
-:: comunity:: community
-:: condolances:: condolences
-:: conected:: connected
-:: conferance:: conference
-:: confirmmation:: confirmation
-:: considerit:: considerate
-:: considerite:: considerate
-:: consonent:: consonant
-:: conspiricy:: conspiracy
-:: consultent:: consultant
-:: convertable:: convertible
-:: cooparate:: cooperate
-:: cooporate:: cooperate
-:: cop[ying:: copying
-:: corproation:: corporation
-:: corproations:: corporations
-:: corruptable:: corruptible
-:: cotten:: cotton
-:: coudl:: could
-:: couldthe:: could the
-:: cpoy:: copy
-:: ctaegory:: category
-:: cusotmer:: customer
-:: cusotmers:: customers
-:: cutsomer:: customer
-:: cutsomers:: customers
-:: cxan:: can
-:: danceing:: dancing
-:: dcument:: document
-:: deatils:: details
-:: decison:: decision
-:: decisons:: decisions
-:: defendent:: defendant
-:: definately:: definitely
-:: deptartment:: department
-:: desicion:: decision
-:: desicions:: decisions
-:: desision:: decision
-:: desisions:: decisions
-:: detente:: dent
-:: develeoprs:: developers
-:: devellop:: develop
-:: develloped:: developed
-:: develloper:: developer
-:: devellopers:: developers
-:: develloping:: developing
-:: devellopment:: development
-:: devellopments:: developments
-:: devellops:: develop
-:: develope:: develop
-:: developement:: development
-:: developements:: developments
-:: developor:: developer
-:: developors:: developers
-:: develpment:: development
-:: diaplay:: display
-:: didnot:: didn't
-:: didnt':: didn't
-:: difefrent:: different
-:: diferences:: differences
-:: differance:: difference
-:: differances:: differences
-:: differant:: different
-:: differemt:: different
-:: differnt:: different
-:: diffrent:: different
-:: dioxine:: dioxide
-:: directer:: director
-:: directers:: directors
-:: directiosn:: direction
-:: disatisfied:: dissatisfied
-:: discoverd:: discovered
-:: disign:: design
-:: dispaly:: display
-:: dissonent:: dissonant
-:: distribusion:: distribution
-:: divsion:: division
-:: docuement:: documents
-:: docuemnt:: document
-:: documetn:: document
-:: documnet:: document
-:: documnets:: documents
-:: doe s not:: doesn't
-:: doese:: does
-:: doign:: doing
-:: doimg:: doing
-:: doind:: doing
-:: dollers:: dollars
-:: donig:: doing
-:: doyuble:: double
-:: driveing:: driving
-:: drnik:: drink
-:: efel:: feel
-:: effecient:: efficient
-:: efort:: effort
-:: eforts:: efforts
-:: ehr:: her
-:: eligable:: eligible
-:: elngth:: length 
-:: embarass:: embarrass
-:: Englihs:: English
-:: enought:: enough
-:: entree:: entr
-:: env var:: environment variable
-:: environemtn:: environment
-:: equippment:: equipment
-:: equivalant:: equivalent
-:: esle:: else
-:: especialyl:: especially
-:: especialyl:: especially
-:: espesially:: especially
-:: exaplme:: example
-:: excellant:: excellent
-:: excercise:: exercise
-:: exchagne:: exchange
-:: exchagnes:: exchanges
-:: excitment:: excitement
-:: exhcange:: exchange
-:: exhcanges:: exchanges
-:: exmpale:: example
-:: experiance:: experience
-:: experienc:: experience
-:: exprience:: experience
-:: exprienced:: experienced
-:: exzport:: export
-:: eyt:: yet
-:: ezxport:: export
-:: faeture:: feature
-:: faetures:: features
-:: familair:: familiar
-:: familar:: familiar
-:: familliar:: familiar
-:: fammiliar:: familiar
-:: feild:: field
-:: feilds:: fields
-:: feixtures:: fixtures
-:: fianlly:: finally
-:: fidn:: find
-:: fiel:: file
-:: fiels:: files
-:: finallty:: finally
-:: finalyl:: finally
-:: firends:: friends
-:: firts:: first
-:: flake78:: flake8
-:: flake87:: flake8
-:: folloiwng:: following
-:: follwo:: follow
-:: follwoing:: following
-:: fora:: for a
-:: foriegn:: foreign
-:: forieng:: foreign
-:: forigen:: foreign
-:: forthe:: for
-:: forwrd:: forward
-:: forwrds:: forwards
-:: foudn:: found
-:: foward:: forward
-:: fowards:: forwards
-:: freind:: friend
-:: freindly:: friendly
-:: freinds:: friends
-:: frmo:: from
-:: fro:: for
-:: fro::for
-:: fromthe:: from the
-:: fromthe::from the
-:: furneral:: funeral
-:: fwe:: few
-:: garantee:: guarantee
-:: gaurd:: guard
-:: gdo:: god
-:: gemeral:: general
-:: gerat:: great
-:: geting:: getting
-:: gettin:: getting
-:: gi5t:: git
-:: gievn:: given
-:: gile:: file
-:: giveing:: giving
-:: gloabl:: global
-:: goign:: going
-:: gonig:: going
-:: govenment:: government
-:: goverment:: government
-:: gruop:: group
-:: gruops:: groups
-:: grwo:: grow
-:: guidlines:: guidelines
-:: guit:: git
-:: hadbeen:: had been
-:: haev:: have
-:: hanlded:: handled
-:: hapen:: happen
-:: hapened:: happened
-:: hapening:: happening
-:: hapens:: happens
-:: happend:: happened
-:: hasbeen:: has been
-:: havebeen:: have been
-:: haveing:: having
-:: hda:: had
-:: hearign:: hearing
-:: hell:: hello
-:: helpfull:: helpful
-:: herat:: heart
-:: hesaid:: he said
-:: hewas:: he was
-:: hge:: he
-:: hismelf:: himself
-:: hlep:: help
-:: hopefulyl:: hopefully
-:: hsa:: has
-:: hsi:: his
-:: hte:: the
-:: htere:: there
-:: htese:: these
-:: htey:: they
-:: hting:: thing
-:: htink:: think
-:: htis:: this
-:: hvae:: have
-:: hvaing:: having
-:: hwich:: which
-:: idae:: idea
-:: idaes:: ideas
-:: identofy:: identify
-:: ifle:: file
-:: ihs:: his
-:: imediate:: immediate
-:: imediatly:: immediately
-:: immediatly:: immediately
-:: importent:: important
-:: importnat:: important
-:: impossable:: impossible
-:: improt:: import
-:: improvemnt:: improvement
-:: improvment:: improvement
-:: includ:: include
-:: inconsitency:: inconsistency
-:: inconsitent:: inconsistent
-:: indecate:: indicate
-:: indenpendence:: independence
-:: indenpendent:: independent
-:: indepedent:: independent
-:: independance:: independence
-:: independant:: independent
-:: influance:: influence
-:: infomation:: information
-:: informatoin:: information
-:: inital:: initial
-:: inlcudes:: includes
-:: instaleld:: installed
-:: insted:: instead
-:: instruciton:: instruction
-:: instrucitons:: instructions
-:: insurence:: insurance
-:: int h e:: in the
-:: int he:: in the
-:: interum:: interim
-:: inthe:: in
-:: invioce:: invoice
-:: invocie:: invoice
-:: inwhich:: in which
-:: iqniry:: inquiry
-:: iqnuiry:: inquiry
-:: isntallation:: installation
-:: ither:: either
-:: itis:: it is
-:: ititial:: initial
-:: itnerest:: interest
-:: itnerested:: interested
-:: itneresting:: interesting
-:: itnerests:: interests
-:: itwas:: it was
-:: iwll:: will
-:: iwth:: with
-:: jsut:: just
-:: jugment:: judgment
-:: knowldge:: knowledge
-:: knowlege:: knowledge
-:: knw:: know
-:: knwo:: know
-:: knwon:: known
-:: knwos:: knows
-:: konw:: know
-:: konwn:: known
-:: konws:: knows
-:: labratory:: laboratory
-:: laready:: already
-:: lastyear:: last year
-:: launc:: launch
-:: learnign:: learning
-:: lenght:: length
-:: lerave:: leave
-:: levle:: level
-:: libary:: library
-:: librarry:: library
-:: librery:: library
-:: liek:: like
-:: liekd:: liked
-:: lieutenent:: lieutenant
-:: liev:: live
-:: likly:: likely
-:: lisense:: license
-:: littel:: little
-:: litttle:: little
-:: liuke:: like
-:: liveing:: living
-:: loev:: love
-:: lonly:: lonely
-:: lookign:: looking
-:: maintenence:: maintenance
-:: makeing:: making
-:: managment:: management
-:: mantain:: maintain
-:: marraige:: marriage
-:: meessage:: message
-:: memeber:: member
-:: menaing:: meaning
-:: merchent:: merchant
-:: mesage:: message
-:: mesages:: messages
-:: mispell:: misspell
-:: mispelling:: misspelling
-:: mispellings:: misspellings
-:: mkae:: make
-:: mkaes:: makes
-:: mkaing:: making
-:: moeny:: money
-:: mohter:: mother
-:: morgage:: mortgage
-:: mroe:: more
-:: mysefl:: myself
-:: myu:: my
-:: naother:: another
-:: necassarily:: necessarily
-:: necassary:: necessary
-:: neccessarily:: necessarily
-:: neccessary:: necessary
-:: necesarily:: necessarily
-:: necesary:: necessary
-:: negotiaing:: negotiating
-:: nkow:: know
-:: nmae:: name
-:: nothign:: nothing
-:: nver:: never
-:: nwe:: new
-:: nwo:: now
-:: obediant:: obedient
-:: ocasion:: occasion
-:: occassion:: occasion
-:: occassionally:: occasionally
-:: occured:: occurred
-:: occurence:: occurrence
-:: occurrance:: occurrence
-:: ocur:: occur
-:: oeprator:: operator
-:: ofits:: of its
-:: ofr:: for
-:: oging:: going
-:: oging:: going
-:: ohter:: other
-:: omre:: more
-:: oneof:: one of
-:: onepoint:: one point
-:: ont h e:: on the
-:: onyl:: only
-:: opneing:: opening
-:: oppasite:: opposite
-:: opperation:: operation
-:: oppertunity:: opportunity
-:: opposate:: opposite
-:: opposible:: opposable
-:: opposit:: opposite
-:: oppotunities:: opportunities
-:: oppotunity:: opportunity
-:: opython:: python
-:: orginization:: organization
-:: orginized:: organized
-:: otehr:: other
-:: otpions:: options
-:: otu:: out
-:: outof:: out of
-:: overthe:: over the
-:: owrk:: work
-:: owuld:: would
-:: oxident:: oxidant
-:: papaer:: paper
-:: parliment:: parliament
-:: partof:: part of
-:: patsh:: paths
-:: paymetn:: payment
-:: paymetns:: payments
-:: pciture:: picture
-:: peice:: piece
-:: peices:: pieces
-:: peolpe:: people
-:: peopel:: people
-:: percentof:: percent of
-:: percentto:: percent to
-:: performence:: performance
-:: perhasp:: perhaps
-:: perhpas:: perhaps
-:: permanant:: permanent
-:: perminent:: permanent
-:: personalyl:: personally
-:: placehodler:: placeholder
-:: pleas:: please
-:: pleasent:: pleasant
-:: poeple:: people
-:: porblem:: problem
-:: porblems:: problems
-:: porvide:: provide
-:: possable:: possible
-:: postition:: position
-:: potentialy:: potentially
-:: practisch:: praktisch
-:: pregnent:: pregnant
-:: presance:: presence
-:: pretrty:: pregnant
-:: prevenmts:: prevents
-:: probelm:: problem
-:: probelms:: problems
-:: prominant:: prominent
-:: psoition:: position
-:: ptogress:: progress
-:: puting:: putting
-:: pwoer:: power
-:: qeustion:: question
-:: qeustions:: questioins
-:: quater:: quarter
-:: quaters:: quarters
-:: quesion:: question
-:: quesions:: questions
-:: questioms:: questions
-:: questiosn:: questions
-:: questoin:: question
-:: quetion:: question
-:: quetions:: questions
-:: readonlyu:: readonly
-:: realyl:: really
-:: reccomend:: recommend
-:: reccommend:: recommend
-:: receieve:: receive
-:: recieve:: receive
-:: recieved:: received
-:: recieving:: receiving
-:: recomend:: recommend
-:: recomendation:: recommendation
-:: recomendations:: recommendations
-:: recomended:: recommended
-:: reconize:: recognize
-:: recrod:: record
-:: refering:: referring
-:: registery:: registry
-:: reinstante:: reinstate
-:: religous:: religious
-:: reluctent:: reluctant
-:: remeber:: remember
-:: reommend:: recommend
-:: reprentation:: representation
-:: representativs:: representatives
-:: representives:: representatives
-:: represetned:: represented
-:: represnt:: represent
-:: requets:: request
-:: requirment:: requirement
-:: requirments:: requirements
-:: reserach:: research
-:: resollution:: resolution
-:: resorces:: resources
-:: respomd:: respond
-:: respomse:: response
-:: responce:: response
-:: responsability:: responsibility
-:: responsable:: responsible
-:: responsibile:: responsible
-:: responsiblity:: responsibility
-:: restaraunt:: restaurant
-:: restuarant:: restaurant
-:: retyrn:: return
-:: retyurn:: return
-:: reult:: result
-:: reveiw:: review
-:: reveiw:: review
-:: reveiwed:: reviewed
-:: reveiwing:: reviewing
-:: rumers:: rumors
-:: rwite:: write
-:: rythm:: rhythm
-:: saidhe:: said he
-:: saidit:: said it
-:: saidt h e::said the
-:: saidthat:: said that
-:: saidthe:: said the
-:: scedule:: schedule
-:: sceduled:: scheduled
-:: secratary:: secretary
-:: sectino:: section
-:: seh:: she
-:: selectoin:: selection
-:: sentance:: sentence
-:: separeate:: separate
-:: seperate:: separate
-:: sercumstances:: circumstances
-:: sevral:: several
-:: shcool:: school
-:: shesaid:: she said
-:: shfit:: shift
-:: shineing:: shining
-:: shiped:: shipped
-:: shoudl:: should
-:: shoulnd't:: shouldn't
-:: showinf:: showing
-:: signifacnt:: significant
-:: simalar:: similar
-:: similiar:: similar
-:: simplfiy:: simplify
-:: simpyl:: simply
-:: sincerly:: sincerely
-:: sitll:: still
-:: smae:: same
-:: smaple:: sample
-:: smoe:: some
-:: soem:: some
-:: soemthing:: something
-:: sohw:: show
-:: soical:: social
-:: somehwere:: somewhere
-:: somethign:: something
-:: someting:: something
-:: somewaht:: somewhat
-:: somthing:: something
-:: somtimes:: sometimes
-:: somwehere:: somewhere
-:: sot hat:: so that
-:: soudn:: sound
-:: spanaird:: spaniard
-:: speach:: speech
-:: specificaly:: specifically
-:: specificalyl:: specifically
-:: statment:: statement
-:: statments:: statements
-:: stnad:: stand
-:: stopry:: story
-:: stoyr:: story
-:: stpo:: stop
-:: strentgh:: strength
-:: stroy:: story
-:: struggel:: struggle
-:: strugle:: struggle
-:: studnet:: student
-:: suage:: usage
-:: sublclass::subclass
-:: successfull:: successful
-:: successfuly:: successfully
-:: successfulyl:: successfully
-:: sucess:: success
-:: sucessfull:: successful
-:: Sudnay:: Sunday
-:: sufficiant:: sufficient
-:: suggesiton:: suggestion
-:: suggesitons:: suggestions
-:: suggestin:: suggestion
-:: suggestins:: suggestions
-:: suggestins:: suggestions
-:: suggestoin:: suggestion
-:: suggestoins:: suggestions
-:: suggeston:: suggestion
-:: suposed:: supposed
-:: suppoesd:: supposed
-:: suppossed:: supposed
-:: suprise:: surprise
-:: suprised:: surprised
-:: swiming:: swimming
-:: sybntax:: syntax
-:: synbtax:: syntax
-:: tahank:: thank
-:: tahanks:: thanks
-:: tahn:: than
-:: tahnk:: thank
-:: tahnks:: thanks
-:: taht:: that
-:: takign:: taking
-:: talekd:: talked
-:: talkign:: talking
-:: tath:: that
-:: taylored:: tailored
-:: tecnical:: technical
-:: teh:: the
-:: tehy:: they
-:: tellt he:: tell the
-:: termoil:: turmoil
-:: tghe:: the
-:: tghis:: this
-:: thak:: thank
-:: thakns:: thanks
-:: thaks:: thanks
-:: thansk:: thanks
-:: thatt he:: that the
-:: thatthe:: that the
-:: thecompany:: the company
-:: thefirst:: the first
-:: thegovernment:: the goverment
-:: themself:: themselves
-:: themselfs:: themselves
-:: thenew:: the new
-:: there\s :: there's
-:: theri:: their
-:: thesame:: the same
-:: thet teh:: that the
-:: thetwo:: the two
-:: thgat:: that
-:: thge:: the
-:: thier:: their
-:: thigsn:: things
-:: thisyear:: this year
-:: thna:: than
-:: thne:: then
-:: thnig:: thing
-:: thnigs:: things
-:: threatend:: threatened
-:: thsi:: this
-:: thsoe:: those
-:: tht:: that
-:: thta:: that
-:: tihs:: this
-:: timetsamp:: timestamp
-:: timne:: time
-:: tiogether:: together
-:: tje:: the
-:: tjhe:: the
-:: tkae:: take
-:: tkaes:: takes
-:: tkaing:: taking
-:: tlaking:: talking
-:: todaty:: today
-:: todayt:: today
-:: todya:: today
-:: togehter:: together
-:: toldt he:: told the
-:: tomorow:: tomorrow
-:: tongiht:: tonight
-:: tonihgt:: tonight
-:: totaly:: totally
-:: totalyl:: totally
-:: tothe:: to the
-:: towrad:: toward
-:: traditionalyl:: traditionally
-:: transfered:: transferred
-:: translatoin:: translation
-:: tresure:: treasure
-:: tresured:: treasured
-:: truely:: truly
-:: truley:: truly
-:: tryed:: tried
-:: tthe:: the
-:: ture:: true
-:: tyhat:: that
-:: tyhe:: the
-:: udnerstand:: understand
-:: understnad:: understand
-:: undert he:: under the
-:: UnitedStates:: United States
-:: uniwp:: unwip
-:: unliek:: unlike
-:: unpleasently:: unpleasantly
-:: untilll:: until
-:: untitest:: unittest
-:: useing:: using
-:: usualyl:: usually
-:: varaible:: :variable
-:: varaible:: variable
-:: varianble:: variable
-:: veyr:: very
-:: virtualyl:: virtually
-:: vrey:: very
-:: vulnerible:: vulnerable
-:: wa s not:: wasn't
-:: waht:: what
-:: warrent:: warrant
-:: wasnt':: wasn't
-:: wathc:: watch
-:: wathcing:: watching
-:: watn:: want
-:: wehn:: when
-:: werre:: were
-:: whcih:: which
-:: wherre:: where
-:: whethre:: whether
-:: whic:: which
-:: whicht he:: which the
-:: whihc:: which
-:: whta:: what
-:: wiatress:: waitress
-:: wief:: wife
-:: wierd:: weird
-:: wihch:: which
-:: wiht:: with
-:: willbe:: will be
-:: windoes:: windows
-:: witha:: with a
-:: withe:: with
-:: witht he:: with the
-:: withthe:: with the
-:: wiull:: will
-:: wnat:: want
-:: wnated:: wanted
-:: wnats:: wants
-:: woh:: who
-:: wohle:: whole
-:: wokr:: work
-:: workign:: working
-:: woudl:: would
-:: wouldbe:: would be
-:: wriet:: write
-:: writting:: writing
-:: wrod:: word
-:: wroet:: wrote
-:: wroking:: working
-:: wtih:: with
-:: wuould:: would
-:: wya:: way
-:: yera:: year
-:: yeras:: years
-:: yersa:: years
-:: yoiu:: you
-:: yoru:: your
-:: ytou:: you
-:: yuo:: you
-:: yuor:: your
+::abbout::about
+::abnd::and
+::abotu::about
+::abouta::about a
+::aboutit::about it
+::aboutthe::about the
+::abscence::absence
+::accesories::accessories
+::accidant::accident
+::accomodate::accommodate
+::accordingto::according to
+::accross::across
+::acheive::achieve
+::acheived::achieved
+::acheiving::achieving
+::acn::can
+::acommodate::accommodate
+::acomodate::accommodate
+::actualyl::actually
+::additinal::additional
+::additioanl::additional
+::addtional::additional
+::adequit::adequate
+::adequite::adequate
+::adn::and
+::advanage::advantage
+::affraid::afraid
+::afterthe::after the
+::againstt he::against the
+::aganist::against
+::aggresive::aggressive
+::agian::again
+::agreemeent::agreement
+::agreemeents::agreements
+::agreemnet::agreement
+::agreemnets::agreements
+::agressive::aggressive
+::ahppen::happen
+::ahve::have
+::allwasy::always
+::allwyas::always
+::almots::almost
+::almsot::almost
+::alomst::almost
+::alot::a lot
+::alraedy::already
+::alreayd::already
+::alreday::already
+::alwasy::always
+::alwats::always
+::alway::always
+::alwyas::always
+::amde::made
+::Ameria::America
+::amke::make
+::amkes::makes
+::amster::master
+::anbd::and
+::andone::and one
+::andt h e::and the
+::andteh::and the
+::andthe::and the
+::anmd::and
+::anothe::another
+::anual::annual
+::aoppend::append
+::apge::page
+::apopend::append
+::apparant::apparent
+::apparrent::apparent
+::appearence::appearance
+::appeares::appears
+::applicaiton::application
+::applicaitons::applications
+::applyed::applied
+::appointiment::appointment
+::apprecaited::appreciated
+::approrpiate::appropriate
+::approrpriate::appropriate
+::aquisition::acquisition
+::aquisitions::acquisitions
+::arguement::argument
+::arguements::arguments
+::argyument::argument
+::argyuments::arguments
+::arond::around
+::artical::article
+::articel::article
+::asdvertising::advertising
+::askt h e::ask the
+::assistent::assistant
+::asthe::as the
+::atention::attention
+::atmospher::atmosphere
+::attentioin::attention
+::atthe::at the
+::audeince::audience
+::audiance::audience
+::avaialble::available
+::availalbe::available
+::awya::away
+::aywa::away
+::bahs::bash
+::bahs::bash
+::bakc::back
+::balence::balance
+::ballance::balance
+::baout::about
+::bcak::back
+::beacuse::because
+::becasue::because
+::becaus::because
+::becausea::because a
+::becauseof::because of
+::becausethe::because the
+::becauseyou::because you
+::becomeing::becoming
+::becomming::becoming
+::becuase::because
+::becuse::because
+::befoer::before
+::beggining::beginning
+::begining::beginning
+::beginining::beginning
+::beleiev::believe
+::beleieve::believe
+::beleif::belief
+::beleive::believe
+::beleived::believed
+::beleives::believes
+::benifit::benefit
+::benifits::benefits
+::betwen::between
+::beutiful::beautiful
+::bew::new
+::boxs::boxes
+::branhc::branch
+::brodcast::broadcast
+::butthe::but the
+::bvault::vault
+::bve::be
+::caf::cafe
+::caharcter::character
+::calcullated::calculated
+::calulated::calculated
+::campain::campaign
+::candidtae::candidate
+::candidtaes::candidates
+::catagory::category
+::categiory::category
+::certian::certain
+::challange::challenge
+::challanges::challenges
+::chaneg::change
+::chanegs::changes
+::changable::changeable
+::changeing::changing
+::changng::changing
+::charachter::character
+::charachters::characters
+::charactor::character
+::charecter::character
+::charector::character
+::cheif::chief
+::chekc::check
+::chnage::change
+::chruch::church
+::cieling::ceiling
+::circut::circuit
+::claer::clear
+::claered::cleared
+::claerly::clearly
+::cleint::client
+::cliant::client
+::cliche::clich
+::clickign::clicking
+::cloen::clone
+::cmae::came
+::cna::can
+::co[pying::copying
+::colection::collection
+::comamnd::command
+::comanies::companies
+::comany::company
+::comapnies::companies
+::comapny::company
+::comaprison::comparison
+::combintation::combination
+::combnation::combination
+::combnations::combinations
+::comited::committed
+::comittee::committee
+::commadn::command
+::comming::coming
+::commitee::committee
+::committe::committee
+::committment::commitment
+::committments::commitments
+::committy::committee
+::comntain::contain
+::comntains::contains
+::compair::compare
+::compleated::completed
+::compleatly::completely
+::compleatness::completeness
+::completly::completely
+::completness::completeness
+::compnay::company
+::composate::composite
+::comtain::contain
+::comtains::contains
+::comunicate::communicate
+::comunity::community
+::condolances::condolences
+::conected::connected
+::conferance::conference
+::confirmmation::confirmation
+::considerit::considerate
+::considerite::considerate
+::consonent::consonant
+::conspiricy::conspiracy
+::consultent::consultant
+::convertable::convertible
+::cooparate::cooperate
+::cooporate::cooperate
+::cop[ying::copying
+::corproation::corporation
+::corproations::corporations
+::corruptable::corruptible
+::cotten::cotton
+::coudl::could
+::couldthe::could the
+::cpoy::copy
+::ctaegory::category
+::cusotmer::customer
+::cusotmers::customers
+::cutsomer::customer
+::cutsomers::customers
+::cxan::can
+::danceing::dancing
+::dcument::document
+::deatils::details
+::decison::decision
+::decisons::decisions
+::defendent::defendant
+::definately::definitely
+::deptartment::department
+::desicion::decision
+::desicions::decisions
+::desision::decision
+::desisions::decisions
+::detente::dent
+::develeoprs::developers
+::devellop::develop
+::develloped::developed
+::develloper::developer
+::devellopers::developers
+::develloping::developing
+::devellopment::development
+::devellopments::developments
+::devellops::develop
+::develope::develop
+::developement::development
+::developements::developments
+::developor::developer
+::developors::developers
+::develpment::development
+::diaplay::display
+::didnot::didn't
+::didnt'::didn't
+::difefrent::different
+::diferences::differences
+::differance::difference
+::differances::differences
+::differant::different
+::differemt::different
+::differnt::different
+::diffrent::different
+::dioxine::dioxide
+::directer::director
+::directers::directors
+::directiosn::direction
+::disatisfied::dissatisfied
+::discoverd::discovered
+::disign::design
+::dispaly::display
+::dissonent::dissonant
+::distribusion::distribution
+::divsion::division
+::docuement::documents
+::docuemnt::document
+::documetn::document
+::documnet::document
+::documnets::documents
+::doe s not::doesn't
+::doese::does
+::doign::doing
+::doimg::doing
+::doind::doing
+::dollers::dollars
+::donig::doing
+::doyuble::double
+::driveing::driving
+::drnik::drink
+::efel::feel
+::effecient::efficient
+::efort::effort
+::eforts::efforts
+::ehr::her
+::eligable::eligible
+::elngth::length 
+::embarass::embarrass
+::Englihs::English
+::enought::enough
+::entree::entr
+::env var::environment variable
+::environemtn::environment
+::equippment::equipment
+::equivalant::equivalent
+::esle::else
+::especialyl::especially
+::especialyl::especially
+::espesially::especially
+::exaplme::example
+::excellant::excellent
+::excercise::exercise
+::exchagne::exchange
+::exchagnes::exchanges
+::excitment::excitement
+::exhcange::exchange
+::exhcanges::exchanges
+::exmpale::example
+::experiance::experience
+::experienc::experience
+::exprience::experience
+::exprienced::experienced
+::exzport::export
+::eyt::yet
+::ezxport::export
+::faeture::feature
+::faetures::features
+::familair::familiar
+::familar::familiar
+::familliar::familiar
+::fammiliar::familiar
+::feild::field
+::feilds::fields
+::feixtures::fixtures
+::fianlly::finally
+::fidn::find
+::fiel::file
+::fiels::files
+::finallty::finally
+::finalyl::finally
+::firends::friends
+::firts::first
+::flake78::flake8
+::flake87::flake8
+::folloiwng::following
+::follwo::follow
+::follwoing::following
+::fora::for a
+::foriegn::foreign
+::forieng::foreign
+::forigen::foreign
+::forthe::for
+::forwrd::forward
+::forwrds::forwards
+::foudn::found
+::foward::forward
+::fowards::forwards
+::freind::friend
+::freindly::friendly
+::freinds::friends
+::frmo::from
+::fro::for
+::fro::for
+::fromthe::from the
+::fromthe::from the
+::furneral::funeral
+::fwe::few
+::garantee::guarantee
+::gaurd::guard
+::gdo::god
+::gemeral::general
+::gerat::great
+::geting::getting
+::gettin::getting
+::gi5t::git
+::gievn::given
+::gile::file
+::giveing::giving
+::gloabl::global
+::goign::going
+::gonig::going
+::govenment::government
+::goverment::government
+::gruop::group
+::gruops::groups
+::grwo::grow
+::guidlines::guidelines
+::guit::git
+::hadbeen::had been
+::haev::have
+::hanlded::handled
+::hapen::happen
+::hapened::happened
+::hapening::happening
+::hapens::happens
+::happend::happened
+::hasbeen::has been
+::havebeen::have been
+::haveing::having
+::hda::had
+::hearign::hearing
+::hell::hello
+::helpfull::helpful
+::herat::heart
+::hesaid::he said
+::hewas::he was
+::hge::he
+::hismelf::himself
+::hlep::help
+::hopefulyl::hopefully
+::hsa::has
+::hsi::his
+::hte::the
+::htere::there
+::htese::these
+::htey::they
+::hting::thing
+::htink::think
+::htis::this
+::hvae::have
+::hvaing::having
+::hwich::which
+::idae::idea
+::idaes::ideas
+::identofy::identify
+::ifle::file
+::ihs::his
+::imediate::immediate
+::imediatly::immediately
+::immediatly::immediately
+::importent::important
+::importnat::important
+::impossable::impossible
+::improt::import
+::improvemnt::improvement
+::improvment::improvement
+::includ::include
+::inconsitency::inconsistency
+::inconsitent::inconsistent
+::indecate::indicate
+::indenpendence::independence
+::indenpendent::independent
+::indepedent::independent
+::independance::independence
+::independant::independent
+::influance::influence
+::infomation::information
+::informatoin::information
+::inital::initial
+::inlcudes::includes
+::instaleld::installed
+::insted::instead
+::instruciton::instruction
+::instrucitons::instructions
+::insurence::insurance
+::int h e::in the
+::int he::in the
+::interum::interim
+::inthe::in
+::invioce::invoice
+::invocie::invoice
+::inwhich::in which
+::iqniry::inquiry
+::iqnuiry::inquiry
+::isntallation::installation
+::ither::either
+::itis::it is
+::ititial::initial
+::itnerest::interest
+::itnerested::interested
+::itneresting::interesting
+::itnerests::interests
+::itwas::it was
+::iwll::will
+::iwth::with
+::jsut::just
+::jugment::judgment
+::knowldge::knowledge
+::knowlege::knowledge
+::knw::know
+::knwo::know
+::knwon::known
+::knwos::knows
+::konw::know
+::konwn::known
+::konws::knows
+::labratory::laboratory
+::laready::already
+::lastyear::last year
+::launc::launch
+::learnign::learning
+::lenght::length
+::lerave::leave
+::levle::level
+::libary::library
+::librarry::library
+::librery::library
+::liek::like
+::liekd::liked
+::lieutenent::lieutenant
+::liev::live
+::likly::likely
+::lisense::license
+::littel::little
+::litttle::little
+::liuke::like
+::liveing::living
+::loev::love
+::lonly::lonely
+::lookign::looking
+::maintenence::maintenance
+::makeing::making
+::managment::management
+::mantain::maintain
+::marraige::marriage
+::meessage::message
+::memeber::member
+::menaing::meaning
+::merchent::merchant
+::mesage::message
+::mesages::messages
+::mispell::misspell
+::mispelling::misspelling
+::mispellings::misspellings
+::mkae::make
+::mkaes::makes
+::mkaing::making
+::moeny::money
+::mohter::mother
+::morgage::mortgage
+::mroe::more
+::mysefl::myself
+::myu::my
+::naother::another
+::necassarily::necessarily
+::necassary::necessary
+::neccessarily::necessarily
+::neccessary::necessary
+::necesarily::necessarily
+::necesary::necessary
+::negotiaing::negotiating
+::nkow::know
+::nmae::name
+::nothign::nothing
+::nver::never
+::nwe::new
+::nwo::now
+::obediant::obedient
+::ocasion::occasion
+::occassion::occasion
+::occassionally::occasionally
+::occured::occurred
+::occurence::occurrence
+::occurrance::occurrence
+::ocur::occur
+::oeprator::operator
+::ofits::of its
+::ofr::for
+::oging::going
+::oging::going
+::ohter::other
+::omre::more
+::oneof::one of
+::onepoint::one point
+::ont h e::on the
+::onyl::only
+::opneing::opening
+::oppasite::opposite
+::opperation::operation
+::oppertunity::opportunity
+::opposate::opposite
+::opposible::opposable
+::opposit::opposite
+::oppotunities::opportunities
+::oppotunity::opportunity
+::opython::python
+::orginization::organization
+::orginized::organized
+::otehr::other
+::otpions::options
+::otu::out
+::outof::out of
+::overthe::over the
+::owrk::work
+::owuld::would
+::oxident::oxidant
+::papaer::paper
+::parliment::parliament
+::partof::part of
+::patsh::paths
+::paymetn::payment
+::paymetns::payments
+::pciture::picture
+::peice::piece
+::peices::pieces
+::peolpe::people
+::peopel::people
+::percentof::percent of
+::percentto::percent to
+::performence::performance
+::perhasp::perhaps
+::perhpas::perhaps
+::permanant::permanent
+::perminent::permanent
+::personalyl::personally
+::placehodler::placeholder
+::pleas::please
+::pleasent::pleasant
+::poeple::people
+::porblem::problem
+::porblems::problems
+::porvide::provide
+::possable::possible
+::postition::position
+::potentialy::potentially
+::practisch::praktisch
+::pregnent::pregnant
+::presance::presence
+::pretrty::pregnant
+::prevenmts::prevents
+::probelm::problem
+::probelms::problems
+::prominant::prominent
+::psoition::position
+::ptogress::progress
+::puting::putting
+::pwoer::power
+::qeustion::question
+::qeustions::questioins
+::quater::quarter
+::quaters::quarters
+::quesion::question
+::quesions::questions
+::questioms::questions
+::questiosn::questions
+::questoin::question
+::quetion::question
+::quetions::questions
+::readonlyu::readonly
+::realyl::really
+::reccomend::recommend
+::reccommend::recommend
+::receieve::receive
+::recieve::receive
+::recieved::received
+::recieving::receiving
+::recomend::recommend
+::recomendation::recommendation
+::recomendations::recommendations
+::recomended::recommended
+::reconize::recognize
+::recrod::record
+::refering::referring
+::registery::registry
+::reinstante::reinstate
+::religous::religious
+::reluctent::reluctant
+::remeber::remember
+::reommend::recommend
+::reprentation::representation
+::representativs::representatives
+::representives::representatives
+::represetned::represented
+::represnt::represent
+::requets::request
+::requirment::requirement
+::requirments::requirements
+::reserach::research
+::resollution::resolution
+::resorces::resources
+::respomd::respond
+::respomse::response
+::responce::response
+::responsability::responsibility
+::responsable::responsible
+::responsibile::responsible
+::responsiblity::responsibility
+::restaraunt::restaurant
+::restuarant::restaurant
+::retyrn::return
+::retyurn::return
+::reult::result
+::reveiw::review
+::reveiw::review
+::reveiwed::reviewed
+::reveiwing::reviewing
+::rumers::rumors
+::rwite::write
+::rythm::rhythm
+::saidhe::said he
+::saidit::said it
+::saidt h e::said the
+::saidthat::said that
+::saidthe::said the
+::scedule::schedule
+::sceduled::scheduled
+::secratary::secretary
+::sectino::section
+::seh::she
+::selectoin::selection
+::sentance::sentence
+::separeate::separate
+::seperate::separate
+::sercumstances::circumstances
+::sevral::several
+::shcool::school
+::shesaid::she said
+::shfit::shift
+::shineing::shining
+::shiped::shipped
+::shoudl::should
+::shoulnd't::shouldn't
+::showinf::showing
+::signifacnt::significant
+::simalar::similar
+::similiar::similar
+::simplfiy::simplify
+::simpyl::simply
+::sincerly::sincerely
+::sitll::still
+::smae::same
+::smaple::sample
+::smoe::some
+::soem::some
+::soemthing::something
+::sohw::show
+::soical::social
+::somehwere::somewhere
+::somethign::something
+::someting::something
+::somewaht::somewhat
+::somthing::something
+::somtimes::sometimes
+::somwehere::somewhere
+::sot hat::so that
+::soudn::sound
+::spanaird::spaniard
+::speach::speech
+::specificaly::specifically
+::specificalyl::specifically
+::statment::statement
+::statments::statements
+::stnad::stand
+::stopry::story
+::stoyr::story
+::stpo::stop
+::strentgh::strength
+::stroy::story
+::struggel::struggle
+::strugle::struggle
+::studnet::student
+::suage::usage
+::sublclass::subclass
+::successfull::successful
+::successfuly::successfully
+::successfulyl::successfully
+::sucess::success
+::sucessfull::successful
+::Sudnay::Sunday
+::sufficiant::sufficient
+::suggesiton::suggestion
+::suggesitons::suggestions
+::suggestin::suggestion
+::suggestins::suggestions
+::suggestins::suggestions
+::suggestoin::suggestion
+::suggestoins::suggestions
+::suggeston::suggestion
+::suposed::supposed
+::suppoesd::supposed
+::suppossed::supposed
+::suprise::surprise
+::suprised::surprised
+::swiming::swimming
+::sybntax::syntax
+::synbtax::syntax
+::tahank::thank
+::tahanks::thanks
+::tahn::than
+::tahnk::thank
+::tahnks::thanks
+::taht::that
+::takign::taking
+::talekd::talked
+::talkign::talking
+::tath::that
+::taylored::tailored
+::tecnical::technical
+::teh::the
+::tehy::they
+::tellt he::tell the
+::termoil::turmoil
+::tghe::the
+::tghis::this
+::thak::thank
+::thakns::thanks
+::thaks::thanks
+::thansk::thanks
+::thatt he::that the
+::thatthe::that the
+::thecompany::the company
+::thefirst::the first
+::thegovernment::the goverment
+::themself::themselves
+::themselfs::themselves
+::thenew::the new
+::there\s ::there's
+::theri::their
+::thesame::the same
+::thet teh::that the
+::thetwo::the two
+::thgat::that
+::thge::the
+::thier::their
+::thigsn::things
+::thisyear::this year
+::thna::than
+::thne::then
+::thnig::thing
+::thnigs::things
+::threatend::threatened
+::thsi::this
+::thsoe::those
+::tht::that
+::thta::that
+::tihs::this
+::timetsamp::timestamp
+::timne::time
+::tiogether::together
+::tje::the
+::tjhe::the
+::tkae::take
+::tkaes::takes
+::tkaing::taking
+::tlaking::talking
+::todaty::today
+::todayt::today
+::todya::today
+::togehter::together
+::toldt he::told the
+::tomorow::tomorrow
+::tongiht::tonight
+::tonihgt::tonight
+::totaly::totally
+::totalyl::totally
+::tothe::to the
+::towrad::toward
+::traditionalyl::traditionally
+::transfered::transferred
+::translatoin::translation
+::tresure::treasure
+::tresured::treasured
+::truely::truly
+::truley::truly
+::tryed::tried
+::tthe::the
+::ture::true
+::tyhat::that
+::tyhe::the
+::udnerstand::understand
+::understnad::understand
+::undert he::under the
+::UnitedStates::United States
+::uniwp::unwip
+::unliek::unlike
+::unpleasently::unpleasantly
+::untilll::until
+::untitest::unittest
+::useing::using
+::usualyl::usually
+::varaible:::variable
+::varaible::variable
+::varianble::variable
+::veyr::very
+::virtualyl::virtually
+::vrey::very
+::vulnerible::vulnerable
+::wa s not::wasn't
+::waht::what
+::warrent::warrant
+::wasnt'::wasn't
+::wathc::watch
+::wathcing::watching
+::watn::want
+::wehn::when
+::werre::were
+::whcih::which
+::wherre::where
+::whethre::whether
+::whic::which
+::whicht he::which the
+::whihc::which
+::whta::what
+::wiatress::waitress
+::wief::wife
+::wierd::weird
+::wihch::which
+::wiht::with
+::willbe::will be
+::windoes::windows
+::witha::with a
+::withe::with
+::witht he::with the
+::withthe::with the
+::wiull::will
+::wnat::want
+::wnated::wanted
+::wnats::wants
+::woh::who
+::wohle::whole
+::wokr::work
+::workign::working
+::woudl::would
+::wouldbe::would be
+::wriet::write
+::writting::writing
+::wrod::word
+::wroet::wrote
+::wroking::working
+::wtih::with
+::wuould::would
+::wya::way
+::yera::year
+::yeras::years
+::yersa::years
+::yoiu::you
+::yoru::your
+::ytou::you
+::yuo::you
+::yuor::your
