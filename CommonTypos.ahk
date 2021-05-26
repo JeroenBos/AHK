@@ -1,3 +1,4 @@
+::*-)::🤔
 ::abbout::about
 ::abnd::and
 ::abotu::about
@@ -41,6 +42,7 @@
 ::agreemnets::agreements
 ::agressive::aggressive
 ::ahppen::happen
+::ahrd::hard
 ::ahve::have
 ::allwasy::always
 ::allwyas::always
@@ -59,7 +61,10 @@
 ::Ameria::America
 ::amke::make
 ::amkes::makes
+::ammend::amend
 ::amster::master
+::analuyzer::analyzer
+::analyuzer::analyzer
 ::anbd::and
 ::andone::and one
 ::andt h e::and the
@@ -193,6 +198,7 @@
 ::combintation::combination
 ::combnation::combination
 ::combnations::combinations
+::comemnt::comment
 ::comited::committed
 ::comittee::committee
 ::commadn::command
@@ -307,12 +313,17 @@
 ::doyuble::double
 ::driveing::driving
 ::drnik::drink
+::ednoint::endpoint
+::ednpoint::endpoint
 ::efel::feel
 ::effecient::efficient
 ::efort::effort
 ::eforts::efforts
 ::ehr::her
 ::eligable::eligible
+::eligble::eligible
+::eligilbe::eligible
+::eliglbe::eligible
 ::elngth::length 
 ::embarass::embarrass
 ::Englihs::English
@@ -393,12 +404,15 @@
 ::gerat::great
 ::geting::getting
 ::gettin::getting
+::ghard::hard
 ::gi5t::git
 ::gievn::given
 ::gile::file
+::giot::git
 ::giveing::giving
 ::gloabl::global
 ::goign::going
+::goit::git
 ::gonig::going
 ::govenment::government
 ::goverment::government
@@ -420,12 +434,12 @@
 ::haveing::having
 ::hda::had
 ::hearign::hearing
-::hell::hello
 ::helpfull::helpful
 ::herat::heart
 ::hesaid::he said
 ::hewas::he was
 ::hge::he
+::hicchoughs::hiccoughs
 ::hismelf::himself
 ::hlep::help
 ::hopefulyl::hopefully
@@ -485,6 +499,7 @@
 ::iqniry::inquiry
 ::iqnuiry::inquiry
 ::isntallation::installation
+::isntead::instead
 ::ither::either
 ::itis::it is
 ::ititial::initial
@@ -643,10 +658,14 @@
 ::probelm::problem
 ::probelms::problems
 ::prominant::prominent
+::protocal::protocal
 ::psoition::position
 ::ptogress::progress
 ::puting::putting
 ::pwoer::power
+::pythin::python
+::pythoni::python
+::pyton::python
 ::qeustion::question
 ::qeustions::questioins
 ::quater::quarter
@@ -675,7 +694,9 @@
 ::refering::referring
 ::registery::registry
 ::reinstante::reinstate
+::relavtivity::relativity
 ::religous::religious
+::relkativity::relativity
 ::reluctent::reluctant
 ::remeber::remember
 ::reommend::recommend
@@ -716,6 +737,7 @@
 ::saidthe::said the
 ::scedule::schedule
 ::sceduled::scheduled
+::scenarioes::scenarios
 ::secratary::secretary
 ::sectino::section
 ::seesion::session
@@ -731,6 +753,8 @@
 ::shfit::shift
 ::shineing::shining
 ::shiped::shipped
+::shotr::short
+::shotrly::shortly
 ::shoudl::should
 ::shoulnd't::shouldn't
 ::showinf::showing
@@ -759,6 +783,7 @@
 ::soudn::sound
 ::spanaird::spaniard
 ::speach::speech
+::specatime::spacetime
 ::specificaly::specifically
 ::specificalyl::specifically
 ::statment::statement
@@ -774,6 +799,7 @@
 ::studnet::student
 ::suage::usage
 ::sublclass::subclass
+::succesful::successful
 ::successfull::successful
 ::successfuly::successfully
 ::successfulyl::successfully
@@ -877,6 +903,7 @@
 ::truely::truly
 ::truley::truly
 ::tryed::tried
+::tsaj::tsja
 ::tthe::the
 ::ture::true
 ::tyhat::that
@@ -913,6 +940,7 @@
 ::whethre::whether
 ::whic::which
 ::whicht he::which the
+::whiel::while
 ::whihc::which
 ::whta::what
 ::wiatress::waitress
@@ -949,6 +977,7 @@
 ::yersa::years
 ::yoiu::you
 ::yoru::your
+::youer::your
 ::ytou::you
 ::yuo::you
 ::yuor::your
