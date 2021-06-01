@@ -72,6 +72,7 @@
 ::andthe::and the
 ::anmd::and
 ::anothe::another
+::anthing::anything
 ::anual::annual
 ::aoppend::append
 ::apge::page
@@ -94,6 +95,7 @@
 ::argyument::argument
 ::argyuments::arguments
 ::arond::around
+::aroudn::around
 ::artical::article
 ::articel::article
 ::asdvertising::advertising
@@ -110,6 +112,8 @@
 ::availalbe::available
 ::awya::away
 ::aywa::away
+::b;;ack::black
+::b;ack::black
 ::bahs::bash
 ::bahs::bash
 ::bakc::back
@@ -147,8 +151,10 @@
 ::branhc::branch
 ::brodcast::broadcast
 ::butthe::but the
+::buyt::but
 ::bvault::vault
 ::bve::be
+::byut::but
 ::caf::cafe
 ::caharcter::character
 ::calcullated::calculated
@@ -188,6 +194,7 @@
 ::cmae::came
 ::cna::can
 ::co[pying::copying
+::coint::count
 ::colection::collection
 ::comamnd::command
 ::comanies::companies
@@ -234,12 +241,14 @@
 ::convertable::convertible
 ::cooparate::cooperate
 ::cooporate::cooperate
+::coount::count
 ::cop[ying::copying
 ::corproation::corporation
 ::corproations::corporations
 ::corruptable::corruptible
 ::cotten::cotton
 ::coudl::could
+::couint::count
 ::couldthe::could the
 ::cpoy::copy
 ::ctaegory::category
@@ -250,7 +259,9 @@
 ::cxan::can
 ::danceing::dancing
 ::dcument::document
+::deafult::default
 ::deatils::details
+::debuggin::debugging
 ::decison::decision
 ::decisons::decisions
 ::defendent::defendant
@@ -288,6 +299,7 @@
 ::differnt::different
 ::diffrent::different
 ::dioxine::dioxide
+::diplsay::display
 ::directer::director
 ::directers::directors
 ::directiosn::direction
@@ -536,6 +548,7 @@
 ::liekd::liked
 ::lieutenent::lieutenant
 ::liev::live
+::ligth::light
 ::likly::likely
 ::lisense::license
 ::littel::little
@@ -551,6 +564,7 @@
 ::mantain::maintain
 ::marraige::marriage
 ::meessage::message
+::megre::merge
 ::memeber::member
 ::menaing::meaning
 ::merchent::merchant
@@ -565,6 +579,8 @@
 ::moeny::money
 ::mohter::mother
 ::morgage::mortgage
+::motorcyckle::motorcycle
+::motorcyucle::motorcycle
 ::mroe::more
 ::mysefl::myself
 ::myu::my
@@ -643,6 +659,7 @@
 ::placehodler::placeholder
 ::pleas::please
 ::pleasent::pleasant
+::poath::path
 ::poeple::people
 ::porblem::problem
 ::porblems::problems
@@ -679,6 +696,7 @@
 ::quetions::questions
 ::readonlyu::readonly
 ::realyl::really
+::reaplce::repalce
 ::reccomend::recommend
 ::reccommend::recommend
 ::receieve::receive
@@ -700,6 +718,7 @@
 ::reluctent::reluctant
 ::remeber::remember
 ::reommend::recommend
+::repalce::replace
 ::reprentation::representation
 ::representativs::representatives
 ::representives::representatives
@@ -718,8 +737,11 @@
 ::responsable::responsible
 ::responsibile::responsible
 ::responsiblity::responsibility
+::resposne::response
 ::restaraunt::restaurant
 ::restuarant::restaurant
+::resuylt::result
+::resyult::result
 ::retyrn::return
 ::retyurn::return
 ::reult::result
@@ -793,6 +815,7 @@
 ::stoyr::story
 ::stpo::stop
 ::strentgh::strength
+::strets::streets
 ::stroy::story
 ::struggel::struggle
 ::strugle::struggle
@@ -821,6 +844,7 @@
 ::suprise::surprise
 ::suprised::surprised
 ::swiming::swimming
+::swqing::swing
 ::sybntax::syntax
 ::synbtax::syntax
 ::tahank::thank
@@ -887,6 +911,7 @@
 ::todayt::today
 ::todya::today
 ::togehter::together
+::tokesn::tokens
 ::toldt he::told the
 ::tomorow::tomorrow
 ::tongiht::tonight
