@@ -1,5 +1,5 @@
-
-::*-)::🤔
+:*:*-)::🤔
+:*::wip::🚧
 :*:abbout::about
 ::abnd::and
 ::abotu::about
@@ -1040,3 +1040,7 @@
 :*:ytou::you
 :*:yuo::you
 :*:yuor::your
+:*:hakon::håkon
+:*:self driven::self-driven
+:c*:Remin::ReMin
+:c*:Github::GitHub
