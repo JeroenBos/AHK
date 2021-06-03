@@ -1,5 +1,5 @@
 {
-    "sortLines.sortEntireFile": true,
+    "sortLines.sortEntireFile": false,
     "[ahk]": {
         // there are some bugs in the extension so just ignore them
         "editor.formatOnSave": false,
