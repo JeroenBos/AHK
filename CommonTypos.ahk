@@ -1,3 +1,4 @@
+
 ::*-)::🤔
 ::abbout::about
 ::abnd::and
@@ -53,10 +54,12 @@
 ::alraedy::already
 ::alreayd::already
 ::alreday::already
+::altogether::alltogether
 ::alwasy::always
 ::alwats::always
 ::alway::always
 ::alwyas::always
+::amazinh::amazing
 ::amde::made
 ::Ameria::America
 ::amke::make
@@ -100,6 +103,7 @@
 ::articel::article
 ::asdvertising::advertising
 ::askt h e::ask the
+::aslo::also
 ::assistent::assistant
 ::asthe::as the
 ::atention::attention
@@ -120,6 +124,7 @@
 ::balence::balance
 ::ballance::balance
 ::baout::about
+::bashg::bash
 ::bcak::back
 ::beacuse::because
 ::becasue::because
@@ -147,6 +152,7 @@
 ::betwen::between
 ::beutiful::beautiful
 ::bew::new
+::booknig::booking
 ::boxs::boxes
 ::branhc::branch
 ::brodcast::broadcast
@@ -233,6 +239,8 @@
 ::conected::connected
 ::conferance::conference
 ::confirmmation::confirmation
+::confliect::conflict
+::confliects::conflicts
 ::considerit::considerate
 ::considerite::considerate
 ::consonent::consonant
@@ -317,6 +325,7 @@
 ::documnets::documents
 ::doe s not::doesn't
 ::doese::does
+::doesn't::
 ::doign::doing
 ::doimg::doing
 ::doind::doing
@@ -345,6 +354,7 @@
 ::environemtn::environment
 ::equippment::equipment
 ::equivalant::equivalent
+::erbase::rebase
 ::esle::else
 ::especialyl::especially
 ::especialyl::especially
@@ -419,6 +429,7 @@
 ::ghard::hard
 ::gi5t::git
 ::gievn::given
+::giit::git
 ::gile::file
 ::giot::git
 ::giveing::giving
@@ -508,6 +519,7 @@
 ::invioce::invoice
 ::invocie::invoice
 ::inwhich::in which
+::ionstance::instance
 ::iqniry::inquiry
 ::iqnuiry::inquiry
 ::isntallation::installation
@@ -537,6 +549,7 @@
 ::laready::already
 ::lastyear::last year
 ::launc::launch
+::launcj::launch
 ::learnign::learning
 ::lenght::length
 ::lerave::leave
@@ -612,9 +625,11 @@
 ::oging::going
 ::oging::going
 ::ohter::other
+::ohterwise::otherwise
 ::omre::more
 ::oneof::one of
 ::onepoint::one point
+::onlien::online
 ::ont h e::on the
 ::onyl::only
 ::opneing::opening
@@ -646,8 +661,13 @@
 ::pciture::picture
 ::peice::piece
 ::peices::pieces
+::peoetry::poetry
+::peoetryy::poetry
 ::peolpe::people
 ::peopel::people
+::peoptry::poetry
+::peorty::poetry
+::peotry::poetry
 ::percentof::percent of
 ::percentto::percent to
 ::performence::performance
@@ -661,6 +681,10 @@
 ::pleasent::pleasant
 ::poath::path
 ::poeple::people
+::poerty::poetry
+::poertyy::poetry
+::poeryt::poetry
+::poeryty::poetry
 ::porblem::problem
 ::porblems::problems
 ::porvide::provide
@@ -676,8 +700,10 @@
 ::probelms::problems
 ::prominant::prominent
 ::protocal::protocal
+::protofub::protobuf
 ::psoition::position
 ::ptogress::progress
+::pukll::pull
 ::puting::putting
 ::pwoer::power
 ::pythin::python
@@ -897,7 +923,9 @@
 ::thsoe::those
 ::tht::that
 ::thta::that
+::thye::they
 ::tihs::this
+::timetsamp::timestamp
 ::timetsamp::timestamp
 ::timne::time
 ::tiogether::together
@@ -1003,6 +1031,7 @@
 ::yoiu::you
 ::yoru::your
 ::youer::your
+::your're::you're
 ::ytou::you
 ::yuo::you
 ::yuor::your
