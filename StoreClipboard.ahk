@@ -4,7 +4,7 @@ global Filename
 Filename=C:\Users\Windows\Desktop\Clipboard.txt
 
 OnClipboardChange("WriteClipboardToFile")
-
+asdf
 WriteClipboardToFile(Type)
 {
     ; 1 = Clipboard contains something that can be expressed as text (this includes files copied from an Explorer window).

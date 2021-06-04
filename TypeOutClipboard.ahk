@@ -10,3 +10,4 @@ SetKeyDelay, 0
         Send {Raw}%truncatedCopy%
     }
 Return
+other
