@@ -1,4 +1,5 @@
 :*:*-)::🤔
+:*:(a)::😇
 :*::wip::🚧
 :*:abbout::about
 ::abnd::and
@@ -134,7 +135,7 @@
 :*:bcak::back
 :*:beacuse::because
 :*:becasue::because
-:*:becaus::because
+::becaus::because
 :*:becausea::because a
 :*:becauseof::because of
 :*:becausethe::because the
@@ -332,6 +333,7 @@
 :*:documnets::documents
 :*:doe s ::does{Space}
 :*:doese ::does{Space}
+:*:doesnt'::doesn't
 :*:doign::doing
 :*:doimg::doing
 ::doind::doing
@@ -527,7 +529,8 @@
 :*:ionstance::instance
 :*:iqniry::inquiry
 :*:iqnuiry::inquiry
-:*:isntallation::installation
+:*:isntall::install
+:*:isnstall::install
 :*:isntead::instead
 ::ither::either
 ::itis::it is
@@ -996,7 +999,7 @@
 :*:whcih::which
 :*:wherre::where
 :*:whethre::whether
-:*:whic::which
+::whic::which
 :*:whicht he::which the
 :*:whiel::while
 :*:whihc::which
@@ -1038,9 +1041,77 @@
 :*:youer::your
 :*:your're::you're
 :*:ytou::you
-:*:yuo::you
+::yuo::you
 :*:yuor::your
 :*:hakon::håkon
 :*:self driven::self-driven
 :c*:Remin::ReMin
 :c*:Github::GitHub
+:*:moement::moment
+:*:fitler::filter
+:*:pattenr::pattern
+:*:becayuse::because
+:*:abuot::about
+::suych::such
+::beewn::been
+:*:gmamil::gmail
+:*:gmial::gmail
+:*:ppoetry::poetry
+:*:hjard::hard
+:*:beautifil::beautiful
+:*:directroy::directory
+::I'm guess::I'm guessing 
+::pyton::python
+::pytohn::python
+::parkting::parking
+:*:restatr::restart
+:*:wqhich::which
+:*:runnign::running
+:*:isseu::issue
+:*:extensino::extension
+:*:froatm::format
+::pyll::pull
+::mypy.::mypy .
+::cluod::cloud
+:*:pigguback::piggyback
+:*:soruce::source
+:*:nothnig::nothing
+:*:inlcuding::including
+:*:optinoal::optional
+::rebae::rebase
+:*:udpate::update
+::omfr::from
+::fronm::from
+:*:proeprt::propert
+::psuh::push
+:*:environemtn::environment
+:*:environemnt::environment
+::incrase::increase
+:*:coutner::counter
+::conenct::connect
+::upruising::uprising
+::woulnd't::wouldn't
+::unwiop::unwip
+::unqiop::unwip
+::unqip::unwip
+::gatewat::gateway
+:*:couldnt'::couldn't
+::resistent::resistant
+:*:enpoint::endpoint
+::midn::mind
+::wchih::which
+::scritp::script
+::visibie::visible
+::visibile::visible
+::lsit::list
+:*:udnerstood::understood
+:*:lcoalhost::localhost
+:*:localhiost::localhost
+::frist::first
+::proemtheos::prometheus::
+::promethues::prometheus::
+::proemtheus::prometheus::
+::brnach::branch
+:*:localhjost::localhost
+:*:exprort::export
+:*:promentheus::prometheus
