@@ -1,12 +1,16 @@
+# AHK
+
+A repo with a collection of scripts that I use/have used.
+
+## Some scripts
 
 
-
-# WindowsVolume
+### WindowsVolume
 
 Changes the volume buttons behavior in Windows 10 to suit my preference.
 
 
-## Credits
+#### Credits
 Inspired by https://www.youtube.com/watch?v=Br055rIE_hE
 
 
