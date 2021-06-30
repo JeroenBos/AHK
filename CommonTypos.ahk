@@ -277,7 +277,7 @@
 :*:dcument::document
 :*:deafult::default
 :*:deatils::details
-:*:debuggin::debugging
+::debuggin::debugging
 :*:decison::decision
 :*:decisons::decisions
 :*:defendent::defendant
@@ -297,7 +297,7 @@
 :*:devellopment::development
 :*:devellopments::developments
 :*:devellops::develop
-:*:develope::develop
+::develope::develop
 :*:developement::development
 :*:developements::developments
 :*:developor::developer
@@ -377,7 +377,7 @@
 :*:exhcanges::exchanges
 :*:exmpale::example
 :*:experiance::experience
-:*:experienc::experience
+::experienc::experience
 :*:exprience::experience
 :*:exprienced::experienced
 :*:exzport::export
@@ -1047,7 +1047,8 @@
 :*:self driven::self-driven
 :c*:Remin::ReMin
 :c*:Github::GitHub
-:*:moement::moment
+:*:moemen::momen
+:*:moemnt::moment
 :*:fitler::filter
 :*:pattenr::pattern
 :*:becayuse::because
@@ -1115,3 +1116,9 @@
 :*:localhjost::localhost
 :*:exprort::export
 :*:promentheus::prometheus
+:*:backsapce::backspace
+:*:Deepinisght::Deepinsight
+:*:udner::under
+::toyen::Tøyen
+::therefor::therefore
+:*:thorugh::through
