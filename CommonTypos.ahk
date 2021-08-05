@@ -1,6 +1,3 @@
-:*:*-)::🤔
-:*:(a)::😇
-:*::wip::🚧
 :*:abbout::about
 ::abnd::and
 ::abotu::about
@@ -556,7 +553,7 @@
 :*:labratory::laboratory
 :*:laready::already
 :*:lastyear::last year
-:*:launc::launch
+::launc::launch
 :*:launcj::launch
 :*:learnign::learning
 :*:lenght::length
@@ -858,7 +855,7 @@
 :*:suage::usage
 :*:sublclass::subclass
 :*:succesful::successful
-:*:successfull::successful
+::successfull::successful
 :*:successfuly::successfully
 :*:successfulyl::successfully
 :*:sucess::success
@@ -1122,3 +1119,53 @@
 ::toyen::Tøyen
 ::therefor::therefore
 :*:thorugh::through
+:*:visisb::visib
+:*:constratin::constraint
+::reuslt::result
+:*:unmder::under
+:*:puybli::publi
+::csporj::csproj
+::emssage::message
+::mesaage::message
+::expcetion::exception
+:*:buidl::build
+::eixt::exit
+::kidn::kind
+::wamr::warm
+::stahs::stash
+:*:gituhb::github
+:*:elemetn::element
+:*:specifeid::specified
+::giut::git::
+::dontet::dotnet
+::tiem::time
+::runtiem::runtime
+::nubmer::number
+::dinstance::distance
+::dinstances::distances
+:*:epxected::expected
+:*:ionstall::install
+:*:configruation::configuration
+:*:refernen::referen
+:*:gronnerlokka::Grünnerløkka
+:*:grunnerlokka::Grünnerløkka
+:*:tutoriual::tutorial
+:*:plygin::plugin
+:*:plyugin::plugin
+:*:satsh::stash
+:*:optiosn::options
+::fro::for
+::lcoal::local
+::dwebug::debug
+:*:flaot::float
+:*:crtitical::critical
+:*:termainl::terminal
+
+
+
+; not typos, but for ease of use
+:*:npm run install::npm install
+:*:docker build and run::docker run -it $(docker build -q .)
+:*:*-)::🤔
+:*:(a)::😇
+:*::wip::🚧
