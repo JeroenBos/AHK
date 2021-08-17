@@ -65,7 +65,7 @@
 ::amke::make
 ::amkes::makes
 :*:ammend::amend
-::amster::master
+:*:{Space}amster::{Space}master
 :*:analuyzer::analyzer
 :*:analyuzer::analyzer
 ::anbd::and
@@ -1160,8 +1160,52 @@
 :*:flaot::float
 :*:crtitical::critical
 :*:termainl::terminal
-
-
+:*:branc h::branch{Space}
+:*:conenctor::connector
+:*:boundign::bounding
+::unwuip::unwip
+:*:idnex::index
+::liens::lines
+::strign::string
+:*:docyum::docum
+:*:aiton:ation
+::asert::assert
+::luinq::linq
+:*:speical::special
+:*:gothub::GitHub
+::Scicily::Sicily
+:*:ptyhon::python
+:*:functinos::functions
+:*:semgnet::segment
+:*:dokc::dock
+:c*:JBSN::JBSn
+:c*:JBsn::JBSn
+:*:contenst::contents
+:*:supress::suppress
+:*:deskotp::desktop
+:*:asycn::async
+:*:struing::string
+:*:isntead::instead
+::gfit::git
+:*:hieght::height
+:*:cosnt::const
+:*:retuirn::return
+:*:elemnet:element
+:*:deaful::defaul
+:*:inptu::input
+:*:contineu::continue
+:*:enginieer::engineer
+:*:scriptr::script
+::converage::coverage
+:*:intsall::install
+::alst::last
+:*:datetiem::datetime
+:*:inifinity::infinity
+:*:configureati::configurati
+:*:configuratei::configurati
+:*:fropm::from
+:*:curoser::cursor
+:*:conenction::connection
 
 ; not typos, but for ease of use
 :*:npm run install::npm install
@@ -1169,3 +1213,4 @@
 :*:*-)::🤔
 :*:(a)::😇
 :*::wip::🚧
+:*::expressionless::😑
