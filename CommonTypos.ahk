@@ -129,6 +129,7 @@
 :*:ballance::balance
 :*:baout::about
 :*:bashg::bash
+:*:basgh::bash
 :*:bcak::back
 :*:beacuse::because
 :*:becasue::because
@@ -432,6 +433,7 @@
 ::gettin::getting
 :*:ghard::hard
 :*:gi5t::git
+::gity::git
 :*:gievn::given
 :*:giit::git
 ::gile::file
@@ -653,7 +655,7 @@
 :*:otehr::other
 :*:otpions::options
 ::otu::out
-:*:outof::out of
+:c*:outof::out of
 :*:overthe::over the
 :*:owrk::work
 :*:owuld::would
@@ -1180,6 +1182,7 @@
 :*:dokc::dock
 :c*:JBSN::JBSn
 :c*:JBsn::JBSn
+:*:jbanorro::jbsnorro
 :*:contenst::contents
 :*:supress::suppress
 :*:deskotp::desktop
@@ -1189,7 +1192,8 @@
 ::gfit::git
 :*:hieght::height
 :*:cosnt::const
-:*:retuirn::return
+:*:asybnc::async
+; :*:retuirn::return ; doesn't work: 'return' is a keyword in this context
 :*:elemnet:element
 :*:deaful::defaul
 :*:inptu::input
@@ -1206,6 +1210,17 @@
 :*:fropm::from
 :*:curoser::cursor
 :*:conenction::connection
+:*:fucnt::funct
+:*:selkf::self
+:*:seklf::self
+:*:tyipcal::typical
+:*:typuical::typical
+:*:itner::inter
+:*:druation::duration
+:*:Havard::Håvard
+:*:enuemr::enumer
+::Jorgen::Jørgen
+:*:emergerncy::emergency
 
 ; not typos, but for ease of use
 :*:npm run install::npm install
