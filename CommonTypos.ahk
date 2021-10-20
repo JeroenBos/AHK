@@ -646,7 +646,7 @@
 :*:oppertunity::opportunity
 :*:opposate::opposite
 :*:opposible::opposable
-:*:opposit::opposite
+::opposit::opposite
 :*:oppotunities::opportunities
 :*:oppotunity::opportunity
 :*:opython::python
@@ -1221,6 +1221,18 @@
 :*:enuemr::enumer
 ::Jorgen::Jørgen
 :*:emergerncy::emergency
+:*:formatino::formation
+:*:contenxt::context
+:*:contentx::contexts
+:*:ppublic::public
+::elave::leave
+:*:specifiy::specify
+:*:specialities::specialties
+:*:speciality::specialty
+:*:existince::existence
+::naem::name
+:*:as7ync::async
+
 
 ; not typos, but for ease of use
 :*:npm run install::npm install
@@ -1229,3 +1241,7 @@
 :*:(a)::😇
 :*::wip::🚧
 :*::expressionless::😑
+:*::euro::€
+:*:fodels::fødsels
+:*:fodsels::fødsels
+
