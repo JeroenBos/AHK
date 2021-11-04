@@ -346,7 +346,7 @@
 ::effecient::efficient
 ::efort::effort
 ::eforts::efforts
-::ehr::her
+; ::ehr::her
 :*:eligable::eligible
 :*:eligble::eligible
 :*:eligilbe::eligible
@@ -777,6 +777,8 @@
 :*:resuylt::result
 :*:resyult::result
 :*:retyrn::return
+:*:retunr::return
+:*:dahsbo::dashbo::
 :*:retyurn::return
 :*:reult::result
 :*:reveiw::review
@@ -1134,17 +1136,16 @@
 ::eixt::exit
 ::kidn::kind
 ::wamr::warm
-::stahs::stash
+:*:stahs::stash
 :*:gituhb::github
 :*:elemetn::element
 :*:specifeid::specified
-::giut::git::
-::dontet::dotnet
+:*:giut::git::
+:*:dontet::dotnet
 ::tiem::time
-::runtiem::runtime
-::nubmer::number
-::dinstance::distance
-::dinstances::distances
+:*:runtiem::runtime
+:*:nubmer::number
+:*:dinstance::distance
 :*:epxected::expected
 :*:ionstall::install
 :*:configruation::configuration
@@ -1232,8 +1233,44 @@
 :*:existince::existence
 ::naem::name
 :*:as7ync::async
-
-
+:*:fethc::fetch
+:*:constriant::constraint
+:*:depatr::depart
+:*:cateory::category
+:*:cateopry::category
+:*:argumetns::arguments
+:*:stasgh::stash
+:*:encoutner::encounter
+:*:encoutner::encounter
+:*:encoujnter::encounter
+:*:balzor::blazor
+:*:.sjon::.json
+:*:dispaly::display
+:*:pacakage::package
+:*:psotgres::postgres
+:*:apepd::apped
+:c*:GHIR::FHIR
+:*:gemenet::gement 
+:*:multple::multiple
+:*:domaion::domain
+:*:javscript::javascript
+:*:undefiend::undefined
+:*:wanring::warning
+:*:polyfon::polygon
+:*:poitn::point
+:*:vscoed::.vscode
+:*:vsocde::.vscode
+:*:vsoced::.vscode
+:*:sandwhich::sandwich
+:*:interger::integer
+::thr::the
+::qlosing::closing
+::fo::of
+::fi::if
+:*:gogole::google
+:*:isntan::instan
+:*:boudn::bound
+:*:bounding
 ; not typos, but for ease of use
 :*:npm run install::npm install
 :*:docker build and run::docker run -it $(docker build -q .)
@@ -1244,4 +1281,6 @@
 :*::euro::€
 :*:fodels::fødsels
 :*:fodsels::fødsels
+:*:yarn linkt::yarn link
+#+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
 
