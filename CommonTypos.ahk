@@ -241,7 +241,8 @@
 :*?:comunicate::communicate
 :*?:comunity::community
 :*?:condolances::condolences
-:*?:conected::connected
+:*?:conect::connect
+:*?:conenct::connect
 :*?:conferance::conference
 :*?:confirmmation::confirmation
 :*?:confliect::conflict
@@ -1090,7 +1091,6 @@
 :*?:environemnt::environment
 ::incrase::increase
 :*?:coutner::counter
-::conenct::connect
 ::upruising::uprising
 ::woulnd't::wouldn't
 ::unwiop::unwip
@@ -1164,7 +1164,6 @@
 :*?:crtitical::critical
 :*?:termainl::terminal
 :*?:branc h::branch{Space}
-:*?:conenctor::connector
 :*?:boundign::bounding
 ::unwuip::unwip
 :*?:idnex::index
@@ -1210,7 +1209,6 @@
 :*?:configuratei::configurati
 :*?:fropm::from
 :*?:curoser::cursor
-:*?:conenction::connection
 :*?:fucnt::funct
 :*?:selkf::self
 :*?:seklf::self
@@ -1270,7 +1268,20 @@
 :*?:gogole::google
 :*?:isntan::instan
 :*?:boudn::bound
-:*?:bounding
+:*?:oundign::ounding
+:*?:cvolumn::column
+:*?:refernc::referenc
+:c*:IENum::IEnum
+:c*:contraint::constraint
+:c*:interal::internal
+:*?:tehj::the
+:*?:stallaing::stalling
+:*?:thrusday::thursday
+:*?:deepinsigth::deepinsight
+:*?:toosl::tools
+
+
+
 ; not typos, but for ease of use
 :*?:npm run install::npm install
 :*?:docker build and run::docker run -it $(docker build -q .)
