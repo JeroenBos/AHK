@@ -628,7 +628,7 @@
 :*?:occurrance::occurrence
 :*?:ocur::occur
 :*?:oeprator::operator
-:*?:ofits::of its
+:*:ofits::of its
 :*?:ofi ts::of its
 ::ofr::for
 ::oging::going
@@ -713,7 +713,7 @@
 :*?:psoition::position
 :*?:ptogress::progress
 :*?:pukll::pull
-:*?:puting::putting
+::puting::putting
 :*?:pwoer::power
 :*?:pythin::python
 :*?:pythoni::python
@@ -1279,7 +1279,8 @@
 :*?:thrusday::thursday
 :*?:deepinsigth::deepinsight
 :*?:toosl::tools
-
+:*?::whijch::which
+::biug::big
 
 
 ; not typos, but for ease of use
@@ -1294,4 +1295,5 @@
 :*?:fodsels::fødsels
 :*?:yarn linkt::yarn link
 #+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
+:?c:Bodo::Bodø
 
