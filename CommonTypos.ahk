@@ -1281,7 +1281,8 @@
 :*?:toosl::tools
 :*?::whijch::which
 ::biug::big
-
+::scipt::script
+:*?:thecnic::technic
 
 ; not typos, but for ease of use
 :*?:npm run install::npm install
