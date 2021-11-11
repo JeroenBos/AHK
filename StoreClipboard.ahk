@@ -3,7 +3,7 @@
 ;NOTE: This script (currently) requires to be compiled by the A32 ANSI 32-bit base file to not be flagged as potentially dangerous by Windows
 
 global Filename
-Filename=C:\Users\Windows\Desktop\Clipboard.txt
+Filename=%USERPROFILE%\Desktop\Clipboard.txt
 
 OnClipboardChange("WriteClipboardToFile")
 
