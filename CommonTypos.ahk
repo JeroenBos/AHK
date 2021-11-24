@@ -1229,7 +1229,6 @@
 :*?:specialities::specialties
 :*?:speciality::specialty
 :*?:existince::existence
-::naem::name
 :*?:as7ync::async
 :*?:fethc::fetch
 :*?:constriant::constraint
@@ -1283,6 +1282,20 @@
 ::biug::big
 ::scipt::script
 :*?:thecnic::technic
+::deson't::doesn't
+::lien::line
+:*?:naem::name
+:*?:ubutnu::ubuntu
+:*?:frogot::forgot
+:*?:konjhem::konhjem::
+:*?:isnight::insight
+:*?:becvause::because
+:*?:fragame::fragme
+:*?:frageme::fragme
+:*?:serivce::service
+:*?:stirng::string
+:*?:orable::oracle
+:*?:oravle::oracle
 
 ; not typos, but for ease of use
 :*?:npm run install::npm install
