@@ -315,8 +315,8 @@
 :*?:diffrent::different
 :*?:dioxine::dioxide
 :*?:diplsay::display
-:*?:directer::director
-:*?:directers::directors
+:*:directer::director
+:*:directers::directors
 :*?:directiosn::direction
 :*?:disatisfied::dissatisfied
 :*?:discoverd::discovered
@@ -479,7 +479,7 @@
 :*?:htere::there
 :*?:htese::these
 :*?:htey::they
-:*?:hting::thing
+:*:hting::thing
 :*?:htink::think
 :*?:htis::this
 :*?:hvae::have
@@ -616,7 +616,7 @@
 :*?:nkow::know
 :*?:nmae::name
 :*?:nothign::nothing
-:*?:nver::never
+:?:nver::never
 ::nwe::new
 ::nwo::now
 :*?:obediant::obedient
@@ -1296,6 +1296,32 @@
 :*?:stirng::string
 :*?:orable::oracle
 :*?:oravle::oracle
+:*?:up[date::update
+:?:hwat::what
+:?:ionm::in
+:?*:ptyrhon::python
+:?*:defintion::definition
+:?*:builkd::build
+:?*:chidl::child
+:?*:glifhht::flight
+:?*:glifht::flight
+::dont'::don't
+:?*:sometyhing::something
+:?*:marketplce::marketplace
+::parquert::parquet
+:?*:impelment::implement
+:?*:pytrhon::python
+:?*:opinjg::oping
+:?*:remvoe::remove
+:?*:balck::black
+:?*:termianl::terminal
+:?*:doptnet::dotnet
+:?*:versuion::version
+:?*:layopuot::layout
+:?*:differenlty::differently
+
+; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
+; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 
 ; not typos, but for ease of use
 :*?:npm run install::npm install
@@ -1310,4 +1336,6 @@
 :*?:yarn linkt::yarn link
 #+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
 :?c:Bodo::Bodø
+:*?:poetry activate::source "$(dirname $(poetry run which python))/activate"
+:*?:sor-ost::Sør-Øst
 
