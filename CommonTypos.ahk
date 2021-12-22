@@ -357,7 +357,7 @@
 :*?:Englihs::English
 :*?:enought::enough
 :*?:entree::entr
-:*?:env var::environment variable
+:*:env var::environment variable
 :*?:environemtn::environment
 :*?:equippment::equipment
 :*?:equivalant::equivalent
@@ -634,7 +634,7 @@
 ::oging::going
 ::ohter::other
 :*?:ohterwise::otherwise
-:*?:omre::more
+::omre::more
 ::oneof::one of
 ::onepoint::one point
 :*?:onlien::online
@@ -850,7 +850,7 @@
 :*?:stnad::stand
 :*?:stopry::story
 :*?:stoyr::story
-:*?:stpo::stop
+::stpo::stop
 :*?:strentgh::strength
 :*?:strets::streets
 :*?:stroy::story
@@ -907,8 +907,8 @@
 :*?:thakns::thanks
 :*?:thaks::thanks
 :*?:thansk::thanks
-:*?:thatt he::that the
-:*?:thatthe::that the
+::thatt he::that the
+::thatthe::that the
 :*?:thecompany::the company
 :*?:thefirst::the first
 :*?:thegovernment::the goverment
@@ -933,7 +933,7 @@
 ::thsi::this
 :*?:thsoe::those
 ::tht::that
-:*?:thta::that
+::thta::that
 :*?:thye::they
 ::tihs::this
 :*?:timetsamp::timestamp
@@ -1319,23 +1319,105 @@
 :?*:versuion::version
 :?*:layopuot::layout
 :?*:differenlty::differently
+:?*:numbner::number
+:*:foten::often
+:?*:pacakge::package
+:*:trest::test
+:*?:rebaes::rebase
+:*:evenign::evening
+:*?:elegible::eligible
+:*?:synontym::synonym
+:*?:dictinoary::dictionary  
+:*?:compilcate::complicate
+:*?:optionla::optional
+:*?:negociat::negotiat
+:*?:differnet::different
+:*?:vertif::certif
+::doucle::double
+:*?:itneg::integ
+; :*?:!+::!=
+:*:tyhing::thing
+:*?:typuing::typing
+:*?:rwebase::rebase
+::lcuk::luck
+:*:talbe::table
+:*?:unipw::unwip
+::friom::from
+:*?:tierator::iterator
+:*?:fliught::flight
+:*?:flihgt::flight
+::fior::for
+:*?:descritpor::descriptor
+:*?:descriptro::descriptor
+:*?:happesn::happens
+:*?:flgith::flight
+:*?:valiue::value
+:*?:valuie::value
+:*?:elswh::elsewe
+:*?:compelt::complet
+:*?:pythoin::python
+::reawd::read
+:*?:thruogh::through
+:?:programminag::programming
+:?*:intergration::integration
+:*?:assumilate::assimilate
+:*?:assimiluate::assimilate
+:*?:assimulate::assimilate
+:*?:assumilate::assimilate
+:*?:certficate::certificate
+:*?:implemention::implementation
+:*?:closign::closing
+:*?:certifiate::certificate
+:*?:conatiner::container
+:*?:helath::health
+:*?:surpress::suppress
+:*?:enthousiastic::enthusiastic
+:*?:swithc::switch
+:*?:striubng::string
+:*?:directoary::directory
+:*?:alitry::ality
+:*?:fioxes::fixes
 
-; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
+
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
+; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
 
 ; not typos, but for ease of use
-:*?:npm run install::npm install
-:*?:docker build and run::docker run -it $(docker build -q .)
 :*?:*-)::🤔
 :*?:(a)::😇
 :*?::wip::🚧
 :*?::expressionless::😑
+:*?::shrug::🤷‍♂️
 :*?::euro::€
+:*?::paragraph::§
+:?*:\+-::±
+:?*:\-+::∓
+:?*:\approx::≈
+:*?:\paragraph::§
+
+; programming
+:*?:yarn linkt::yarn link
+:*?:npm run install::npm install
+:*?:docker build and run::docker run -it $(docker build -q .)
+:?*:source venv::source venv/bin/activate
+:?*:source /venv::source /venv/bin/activate
+:*:parquest::parquet
+:*?:git yarn::yarn
+:*?:gitp ull::git pull
+:*?:poetry run flight server::STORAGE_PATH=TMP poetry run python -m tests.arrow.server
+:*?:poetry activate::source "$(dirname $(poetry run which python))/activate"
+
+; Norwegian
 :*?:fodels::fødsels
 :*?:fodsels::fødsels
-:*?:yarn linkt::yarn link
-#+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
 :?c:Bodo::Bodø
-:*?:poetry activate::source "$(dirname $(poetry run which python))/activate"
+::tromso::Tromsø
 :*?:sor-ost::Sør-Øst
 
+; Dutch
+::neit::niet
+:c:Begum::Begüm
+
+
+; Miscellaneous
+#+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
