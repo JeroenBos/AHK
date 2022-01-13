@@ -1180,9 +1180,6 @@
 :*?:functinos::functions
 :*?:semgnet::segment
 :*?:dokc::dock
-:c*:JBSN::JBSn
-:c*:JBsn::JBSn
-:*?:jbanorro::jbsnorro
 :*?:contenst::contents
 :*?:supress::suppress
 :*?:deskotp::desktop
@@ -1377,7 +1374,19 @@
 :*?:directoary::directory
 :*?:alitry::ality
 :*?:fioxes::fixes
+:*?:documenation::documentation
+:*?:thying::thing
+:*?:suirpris::surpris
+:*?:chagne::change
+:*?:boecjt::object
+::asnd::and
+:*?:identifer::identifier
+:*?:identifer::identifier
+:*?:siwthc::switch
+:*?:invetiga::investiga
+:*?:implemenet::implement
 
+; TODO: SEE IF I CAN CANCEL THE HOTSTRING ON E.G. MOUSECLICK AND KEYBOARD ARROWS AND CTRL+BACKSPACE
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1406,6 +1415,8 @@
 :*?:gitp ull::git pull
 :*?:poetry run flight server::STORAGE_PATH=TMP poetry run python -m tests.arrow.server
 :*?:poetry activate::source "$(dirname $(poetry run which python))/activate"
+:*?:gihub::github
+:*?:git assimilate typings::git assimilate typings -- connector/typings/**
 
 ; Norwegian
 :*?:fodels::fødsels
@@ -1421,3 +1432,7 @@
 
 ; Miscellaneous
 #+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
+:*?:jbsnoror::jbsnorro
+:c*:JBSN::JBSn
+:c*:JBsn::JBSn
+:*?:jbanorro::jbsnorro
