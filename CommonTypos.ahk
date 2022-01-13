@@ -922,7 +922,7 @@
 :*?:thetwo::the two
 :*?:thgat::that
 :*?:thge::the
-:*?:thier::their
+:*:thier::their
 :*?:thigsn::things
 :*?:thisyear::this year
 :*?:thna::than
