@@ -1260,7 +1260,8 @@
 ::thr::the
 ::qlosing::closing
 ::fo::of
-::fi::if
+; because of bash we do a bit different here:
+:*?: fi ::{Space}if{Space}
 :*?:gogole::google
 :*?:isntan::instan
 :*?:boudn::bound
@@ -1385,8 +1386,25 @@
 :*?:siwthc::switch
 :*?:invetiga::investiga
 :*?:implemenet::implement
+:*?:enojy::enjoy
+:*?:tracjker::tracker
+:*?:trascker::tracker
+:*?:betetr::better
+:*?:exceptoin::exception
+:*?:retyrb::return
+:*?:fxiture::fixture
+:*?:righgt::right
+:*?:shortbut::shortcut
+:*?:hostring::hotstring
 
-; TODO: SEE IF I CAN CANCEL THE HOTSTRING ON E.G. MOUSECLICK AND KEYBOARD ARROWS AND CTRL+BACKSPACE
+; these shortcuts reset the hotstring mechanism. ~ ensures shortcut is not swallowed
+~#lbutton::
+~^BACKSPACE::
+~+BACKSPACE::
+~^DEL::
+{
+    Hotstring("Reset")
+}
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
