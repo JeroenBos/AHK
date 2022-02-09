@@ -869,7 +869,7 @@
 :*?:sufficiant::sufficient
 :*?:suggesiton::suggestion
 :*?:suggesitons::suggestions
-:*?:suggestin::suggestion
+:?:suggestin::suggestion
 :*?:suggestins::suggestions
 :*?:suggestins::suggestions
 :*?:suggestoin::suggestion
@@ -1396,6 +1396,13 @@
 :*?:righgt::right
 :*?:shortbut::shortcut
 :*?:hostring::hotstring
+:*?:tehcni::techni
+::auther::author
+:*?:resuilt::result
+:?:interpet::interpret
+:*?:interpert::interpret
+:*?:authoer::author
+:*?:usaer::user
 
 ; these shortcuts reset the hotstring mechanism. ~ ensures shortcut is not swallowed
 ~#lbutton::
@@ -1420,8 +1427,7 @@
 :?*:\+-::±
 :?*:\-+::∓
 :?*:\approx::≈
-:*?:\paragraph::§
-
+:?*:\paragraph::§
 ; programming
 :*?:yarn linkt::yarn link
 :*?:npm run install::npm install
@@ -1435,6 +1441,11 @@
 :*?:poetry activate::source "$(dirname $(poetry run which python))/activate"
 :*?:gihub::github
 :*?:git assimilate typings::git assimilate typings -- connector/typings/**
+:*?:~./bashrc::~/.bashrc
+:*?:pytest int::INTEGRATION_TESTS=true pytest .
+; :?:pylint::black .{ENTER}flake8{ENTER}mypy{ENTER}INTEGRATION_TESTS=true pytest .{ENTER}  should be a script instead that stops when one fails
+
+
 
 ; Norwegian
 :*?:fodels::fødsels
@@ -1454,3 +1465,44 @@
 :c*:JBSN::JBSn
 :c*:JBsn::JBSn
 :*?:jbanorro::jbsnorro
+
+
+; greek
+
+::\alpha::α
+::\beta::β
+::\gamma::γ
+::\Gamma::Γ
+::\Delta::Δ
+::\delta::δ
+::\epsilon::ε
+::\eta::η
+::\theta::θ
+::\Theta::Θ
+::\iota::ι
+::\kappa::κ
+::\Lambda::Λ
+::\lambda::λ
+::\Zeta::Ζ
+::\zeta::ζ
+::\mu::μ
+::\nu::ν
+::\pi::π
+::\Pi::Π
+::\rho::ρ
+::\tau::τ
+::\xi::ξ
+::\Xi::Ξ
+::\Upsilon::Υ
+::\upsilon::υ
+::\Phi::Φ
+::\phi::φ
+::\Chi::Χ
+::\chi::χ
+::\Psi::Ψ
+::\psi::ψ
+::\Omega::Ω
+::\omega::ω
+::\sigma::σ
+::\Sigma::Σ
+
