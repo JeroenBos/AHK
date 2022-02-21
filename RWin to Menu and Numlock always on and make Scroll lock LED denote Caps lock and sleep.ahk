@@ -41,3 +41,6 @@ return
 ; Please read the QUICK-START TUTORIAL near the top of the help file.
 ; It explains how to perform common automation tasks such as sending
 ; keystrokes and mouse clicks.  It also explains more about hotkeys.
+
+
+^#l::Run C:\Users\Windows\.Sleep.lnk  ; contains `rundll32.exe powrprof.dll,SetSuspendState 0,1,0`
