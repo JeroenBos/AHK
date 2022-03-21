@@ -853,7 +853,7 @@
 ::stpo::stop
 :*?:strentgh::strength
 :*?:strets::streets
-:*?:stroy::story
+:*:stroy::story  ; destroy
 :*?:struggel::struggle
 :*?:strugle::struggle
 :*?:studnet::student
@@ -1403,6 +1403,30 @@
 :*?:interpert::interpret
 :*?:authoer::author
 :*?:usaer::user
+:*?:requrie::require
+:*?:reqyuire::require
+:*?:serevr::server
+:*?:presumbably::presumably
+:*?:presumbaly::presumably
+:*?:elemenet::element
+:*?:telementry::telemetry
+:*?:telemtry::telemetry
+:*?:tonigiht::tonight
+:*?:verifiy::verify
+:*?:codwes::codes
+:*?:duscuss::discuss
+:*?:curretn::current
+:?:happes::happens
+:*?:happesn::happens
+:?:happsn::happens
+:?*:sessino::session
+:*:ghas::has
+:*:hgas::has
+:*?:uopdate::update
+:*?:upodate::update
+:*:iump::imp
+:*?:instnac::instanc
+:*?:senstive::sensitive
 
 ; these shortcuts reset the hotstring mechanism. ~ ensures shortcut is not swallowed
 ~#lbutton::
@@ -1443,9 +1467,14 @@
 :*?:git assimilate typings::git assimilate typings -- connector/typings/**
 :*?:~./bashrc::~/.bashrc
 :*?:pytest int::INTEGRATION_TESTS=true pytest .
+:*?:int pytest::INTEGRATION_TESTS=true pytest .
 ; :?:pylint::black .{ENTER}flake8{ENTER}mypy{ENTER}INTEGRATION_TESTS=true pytest .{ENTER}  should be a script instead that stops when one fails
-
-
+:*?c:opentel::opentelemetry
+:*?c:openTel::OpenTelemetry
+:*?c:OpenTel::OpenTelemetry
+:*?c:OpenTEl::OpenTelemetry
+:*?:git merge main::git fetch && git merge origin/main
+:?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 
 ; Norwegian
 :*?:fodels::fødsels
