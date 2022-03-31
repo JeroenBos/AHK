@@ -977,7 +977,7 @@
 :*?:UnitedStates::United States
 :*?:uniwp::unwip
 :*?:unliek::unlike
-:*?:untill::until
+:*?c:untill::until  ; in C#: untilLast shouldn't be autocorrected
 ::untitest::unittest
 ::unti test::unit test
 :*?:useing::using
@@ -1427,6 +1427,38 @@
 :*:iump::imp
 :*?:instnac::instanc
 :*?:senstive::sensitive
+:*?:ecxl::excl
+::froim::from
+:*?:vooid::void
+:*?:dopcum::docum
+:*?:htrml::html
+:*?:interla::internal
+:*?:pushg::push
+:*?:vbalue::value
+:*?:develoepr::developer
+:*:eome::some
+:*?:docuemt::document
+:*?:runtime::runtime
+:*?:didn';t::didn't
+:*?:don';t::don't
+:*?:won';t::won't
+:*?:linxu::linux
+:*?:argumetn::argument
+:*?:lokcer::locker
+:*?:frive::drive
+:*?:baord::board
+:*?:lewngth::length
+:*?:downloda::download
+:*?:uploda::upload
+:?:tiosn::tions
+::alogn::along
+::thrid::third
+:*?:obviuos::obvious
+:*?:rahter::rather
+:*?:rnage::range
+:*?:usiong::using
+:*?:isntr::instr
+
 
 ; these shortcuts reset the hotstring mechanism. ~ ensures shortcut is not swallowed
 ~#lbutton::
@@ -1473,8 +1505,13 @@
 :*?c:openTel::OpenTelemetry
 :*?c:OpenTel::OpenTelemetry
 :*?c:OpenTEl::OpenTelemetry
-:*?:git merge main::git fetch && git merge origin/main
+:*?:git merge ma::git fetch && git merge origin/ma
 :?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
+:*?:gh auth login::gh auth login --with-token <<< $(cat $HOME/.ssh/gh_token)
+:*?:ulogn::ulong
+:*?:poetry where::dirname $(poetry run which python)
+:*?:git pull -p::git pull -p && git prune-locally
+:*?:git fetch -p::git fetch -p && git prune-locally
 
 ; Norwegian
 :*?:fodels::fødsels
@@ -1494,6 +1531,7 @@
 :c*:JBSN::JBSn
 :c*:JBsn::JBSn
 :*?:jbanorro::jbsnorro
+:*?:jerone::jeroen
 
 
 ; greek
