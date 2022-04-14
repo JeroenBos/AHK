@@ -566,12 +566,12 @@
 :*?:librarry::library
 :*?:librery::library
 ::liek::like
-:*?:liekd::liked
+; :*?:liekd::liked ; went wrong when typed `liekd + space` for some reason
 :*?:lieutenent::lieutenant
 ::liev::live
 :*?:ligth::light
 :*?:likly::likely
-:*?:lisense::license
+:*:lisense::license  ; counterexample: intellisense
 :*?:littel::little
 :*?:litttle::little
 :*?:liuke::like
@@ -818,6 +818,7 @@
 :*?:shoulnd't::shouldn't
 :*?:showinf::showing
 :*?:signifacnt::significant
+:*?:significatn::significant
 :*?:simalar::similar
 :*?:similiar::similar
 :*?:simplfiy::simplify
@@ -1090,7 +1091,7 @@
 :*?:environemtn::environment
 :*?:environemnt::environment
 ::incrase::increase
-:*?:coutner::counter
+:*?:coutn::count
 ::upruising::uprising
 ::woulnd't::wouldn't
 ::unwiop::unwip
@@ -1234,8 +1235,6 @@
 :*?:cateopry::category
 :*?:argumetns::arguments
 :*?:stasgh::stash
-:*?:encoutner::encounter
-:*?:encoutner::encounter
 :*?:encoujnter::encounter
 :*?:balzor::blazor
 :*?:.sjon::.json
@@ -1458,7 +1457,68 @@
 :*?:rnage::range
 :*?:usiong::using
 :*?:isntr::instr
-
+:*?:divice::device
+:?:aiton::ation
+:?:logn::long
+:*?:apttern::pattern
+:*?:unsire::unsure
+:*?:dicates::dictates
+:*?:chroem::chrome
+:*?:mign::ming
+:*?:resistably::resistibly
+:?:repositry::repository
+:*?:thaty'::that'
+:?:trian::train
+:*:relaly::really
+:*?:usiung::using
+:*?:usuing::using
+:*?:toutori::tutori
+::persistne::persistent
+::mena::mean
+:?*:artificat::artifact
+:c:si::is
+:*?:resposible::responsible
+:*?:resposn::respons
+:*?:responsbi::responsib
+:?:lsit::list
+:*?:opther::other
+:*?:mutliple::multiple
+:*?:multuiple::multiple
+:*?:columsn::columns
+:?:tiung::ting
+:*?:applca::applica
+::lijke::like  ; because of dutch moeilijke/lijken
+:*?:pythonnc::pythonic
+:*:consise::concise
+:*:wign::wing
+:?:nign::ning
+:*?:hign::hing
+:?*:rioght::right
+::yhe::the
+:*?:explaning::explaining
+:*?:deosn'::deosn'
+:*?:deosnt'::doesn't
+:*?:extneison::extension
+:*?:stoppoed::stopped
+:*?:mroning::morning
+:*?:enjoyt::enjoy
+::sefl::self
+::ibn::in
+:*?:covner::conver
+:*?:opnes::ones
+::raose::raise
+:*?:proejct::project
+::ti::it
+:*?:valuwe::value
+:*?:vlaue::value
+:*?:valyuke::value
+:*?:funcion::function
+::hooby::hobby
+:?:tyion::tion
+::th3e::the
+:*?:luyck::luck
+:*?:isnert::insert
+:*?:bugfux::bugfix
 
 ; these shortcuts reset the hotstring mechanism. ~ ensures shortcut is not swallowed
 ~#lbutton::
@@ -1506,12 +1566,16 @@
 :*?c:OpenTel::OpenTelemetry
 :*?c:OpenTEl::OpenTelemetry
 :*?:git merge ma::git fetch && git merge origin/ma
+:?*:git reset --hard origin/::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :*?:gh auth login::gh auth login --with-token <<< $(cat $HOME/.ssh/gh_token)
 :*?:ulogn::ulong
+:*?:uylong::ulong
 :*?:poetry where::dirname $(poetry run which python)
 :*?:git pull -p::git pull -p && git prune-locally
 :*?:git fetch -p::git fetch -p && git prune-locally
+:*?:argo apply::argo submit
+:*?:glcoud::gcloud
 
 ; Norwegian
 :*?:fodels::fødsels
