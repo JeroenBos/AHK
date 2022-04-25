@@ -1,3 +1,13 @@
+; these shortcuts reset the hotstring mechanism. ~ ensures shortcut is not swallowed
+~#lbutton::
+~^BACKSPACE::
+~+BACKSPACE::
+~^DEL::
+{
+    Hotstring("Reset")
+}
+
+; typos
 :*?:abbout::about
 ::abnd::and
 ::abotu::about
@@ -1147,7 +1157,7 @@
 :*?:runtiem::runtime
 :*?:nubmer::number
 :*?:dinstance::distance
-:*?:epxected::expected
+:*?:epxect::expect
 :*?:ionstall::install
 :*?:configruation::configuration
 :*?:refernen::referen
@@ -1519,18 +1529,46 @@
 :*?:luyck::luck
 :*?:isnert::insert
 :*?:bugfux::bugfix
-
-; these shortcuts reset the hotstring mechanism. ~ ensures shortcut is not swallowed
-~#lbutton::
-~^BACKSPACE::
-~+BACKSPACE::
-~^DEL::
-{
-    Hotstring("Reset")
-}
+:*?:fyunc::func
+:*?:impliuc::implic
+:*?:consuem::consume
+::procted::protected
+:*?:retuyrn::return
+:?:ibng::ing
+:*:thjis::this
+:*?:intergra::integra
+:*?:intepret::interpret
+:*?:reuslt::result
+:*?:Inteprret::interpret
+:?:ioanry::ionary
+:?:apeed::apped
+:*:kleng::leng
+:*?:valuye::value
+:*?:swtic::switc
+:*?:flopat::float
+:*?:inpuit::input
+:*?:youi'::you'
+::evne::even
+::hoep::hope
+:*?:pritn::print
+:*?:emamil::email
+:*?:outptu::output
+:*?:inptu::input
+:*?:suppoed::supposed
+:*?:whjic::whic
+:?:mebnt::ment
+:*?:assistence::assistance
+:*:tehter::tether
+:*?:prhas::phras
+:*?:difer::differ
+:*:ciscum::circum
+:*?:staed::stead
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
+
+
+
 
 ; not typos, but for ease of use
 :*?:*-)::🤔
@@ -1552,7 +1590,7 @@
 :?*:source /venv::source /venv/bin/activate
 :*:parquest::parquet
 :*?:git yarn::yarn
-:*?:gitp ull::git pull
+:*?:gitp ul::git pul
 :*?:poetry run flight server::STORAGE_PATH=TMP poetry run python -m tests.arrow.server
 :*?:poetry activate::source "$(dirname $(poetry run which python))/activate"
 :*?:gihub::github
@@ -1576,6 +1614,16 @@
 :*?:git fetch -p::git fetch -p && git prune-locally
 :*?:argo apply::argo submit
 :*?:glcoud::gcloud
+:*?:pytes t::pytest{Space}
+:*?:emial::email
+:*?:I\'m::I'm
+:*?:it\'s::it's
+:*?:you\'::you'
+:*?:suddenyl::suddenly
+::goota::gotta
+:*?:consdier::consider
+::ot::to
+:*?:resukl::resul
 
 ; Norwegian
 :*?:fodels::fødsels
