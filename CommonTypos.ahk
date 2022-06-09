@@ -1473,7 +1473,7 @@
 :?:logn::long
 :*?:apttern::pattern
 :*?:unsire::unsure
-:*?:dicates::dictates
+:*:dicates::dictates  # e.g. indicates
 :*?:chroem::chrome
 :*?:mign::ming
 :*?:resistably::resistibly
@@ -1571,6 +1571,7 @@
 :*?:debuyg::debug
 :*?:pathc::patch
 :*?:enoguh::enough
+:*?:unctoin::unction
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
