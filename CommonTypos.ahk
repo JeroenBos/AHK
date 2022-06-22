@@ -1572,6 +1572,8 @@
 :*?:pathc::patch
 :*?:enoguh::enough
 :*?:unctoin::unction
+:*?:ealtch::ealthc
+:?:atoin::ation
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
