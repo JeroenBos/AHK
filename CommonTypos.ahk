@@ -1574,7 +1574,14 @@
 :*?:unctoin::unction
 :*?:ealtch::ealthc
 :?:atoin::ation
-
+:?*:desparate::desperate
+:*?:motnh::month
+:*?:abouot::about
+:*?:takling::talking
+:?:kgin::king
+::tehre::there
+:*?:inoal::ional
+:*?:luc k::luck{Space}
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
 
