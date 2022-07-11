@@ -1,4 +1,4 @@
-namespace ClipToFile
+namespace PrintscreenToTodo
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace ClipToFile
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            var form = ClipToFileForm.Create();
+            var form = PrintscreenToTodoForm.Create();
             if (form != null)
                 Application.Run(form);
         }

@@ -1,11 +1,11 @@
 using System.Configuration;
 using System.Drawing.Imaging;
 
-namespace ClipToFile;
+namespace PrintscreenToTodo;
 
-public partial class ClipToFileForm : Form
+public partial class PrintscreenToTodoForm : Form
 {
-    public static ClipToFileForm? Create()
+    public static PrintscreenToTodoForm? Create()
     {
         // bail early if doesn't exist
         Extensions.GetTodoFile();
@@ -14,12 +14,12 @@ public partial class ClipToFileForm : Form
         bool success = Extensions.CacheImage(out string tmpFile);
         if (success)
         {
-            return new ClipToFileForm(tmpFile);
+            return new PrintscreenToTodoForm(tmpFile);
         }
         return null;
     }
     private readonly string tmpFile;
-    public ClipToFileForm(string tmpFile)
+    private PrintscreenToTodoForm(string tmpFile)
     {
         this.tmpFile = tmpFile;
         InitializeComponent();

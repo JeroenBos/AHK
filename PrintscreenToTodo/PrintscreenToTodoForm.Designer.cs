@@ -1,6 +1,6 @@
-﻿namespace ClipToFile
+﻿namespace PrintscreenToTodo
 {
-    partial class ClipToFileForm
+    partial class PrintscreenToTodoForm
     {
         /// <summary>
         ///  Required designer variable.
