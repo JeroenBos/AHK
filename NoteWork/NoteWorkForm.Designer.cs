@@ -35,14 +35,14 @@
             // 
             this.descriptionTextBox.Location = new System.Drawing.Point(12, 12);
             this.descriptionTextBox.Name = "descriptionTextBox";
-            this.descriptionTextBox.Size = new System.Drawing.Size(441, 27);
+            this.descriptionTextBox.Size = new System.Drawing.Size(511, 27);
             this.descriptionTextBox.TabIndex = 0;
             // 
             // NoteWorkForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(467, 54);
+            this.ClientSize = new System.Drawing.Size(535, 54);
             this.Controls.Add(this.descriptionTextBox);
             this.Name = "NoteWorkForm";
             this.Text = "What are you doing/did you do today?";
