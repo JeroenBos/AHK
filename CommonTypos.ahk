@@ -1659,8 +1659,8 @@
 
 ; Miscellaneous
 #+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
-RControl & PgDn::Send {RControl Down}#{Right}{RControl Up}  ; enable one-hand  desktop swapping
-RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-hand  desktop swapping
+RControl & PgDn::Send {RControl Down}#{Right}{RControl Up}  ; enable one-handed desktop swapping
+RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-handed desktop swapping
 #^PgDn:: Send #^{Right}
 #^PgUp:: Send #^{Left}
 :*?:jbsnoror::jbsnorro
