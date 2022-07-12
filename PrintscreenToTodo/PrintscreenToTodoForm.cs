@@ -75,13 +75,17 @@ public partial class PrintscreenToTodoForm : Form
 
     private void SaveImageAndAddTodo()
     {
-        string description = GetDescription();
         if (this.tmpFile == null)
         {
-            AddTodo(description);
+            string description = GetDescription(defaultToNow: false);
+            if (!string.IsNullOrEmpty(description))
+            {
+                AddTodo(description);
+            }
         }
         else
         {
+            string description = GetDescription();
             var (relativeImagePath, absoluteImagePath) = GetImagePath(description);
             bool savedSuccessfully = SaveImage(absoluteImagePath);
             if (savedSuccessfully)
@@ -143,10 +147,10 @@ public partial class PrintscreenToTodoForm : Form
 
     }
 
-    private string GetDescription()
+    private string GetDescription(bool defaultToNow = true)
     {
         string contents = this.descriptionTextBox.Text.Trim();
-        if (string.IsNullOrEmpty(contents))
+        if (defaultToNow && string.IsNullOrEmpty(contents))
         {
             return DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
         }
