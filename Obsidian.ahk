@@ -55,6 +55,7 @@ AddToFile()
 ~#+d::
 {
     RunWait, "C:\Program Files\AHK\NoteWork\NoteWork.exe"
+    return
 }
 
 ; t for Todo
@@ -62,4 +63,5 @@ AddToFile()
 {
     ; false is the omitPrintscreen parameter
     RunWait, "C:\Program Files\AHK\PrintscreenToTodo\PrintscreenToTodo.exe" "true"
+    return
 }
