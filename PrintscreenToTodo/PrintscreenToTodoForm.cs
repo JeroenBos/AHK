@@ -5,10 +5,15 @@ namespace PrintscreenToTodo;
 
 public partial class PrintscreenToTodoForm : Form
 {
-    public static PrintscreenToTodoForm? Create()
+    public static PrintscreenToTodoForm? Create(bool omitPrintscreen)
     {
         // bail early if doesn't exist
         Extensions.GetTodoFile();
+
+        if (omitPrintscreen)
+        {
+            return new PrintscreenToTodoForm(null);
+        }
 
         // fetch clipboard contents
         bool success = Extensions.CacheImage(out string tmpFile);
@@ -18,8 +23,8 @@ public partial class PrintscreenToTodoForm : Form
         }
         return null;
     }
-    private readonly string tmpFile;
-    private PrintscreenToTodoForm(string tmpFile)
+    private readonly string? tmpFile;
+    private PrintscreenToTodoForm(string? tmpFile)
     {
         this.tmpFile = tmpFile;
         InitializeComponent();
@@ -71,11 +76,18 @@ public partial class PrintscreenToTodoForm : Form
     private void SaveImageAndAddTodo()
     {
         string description = GetDescription();
-        var (relativeImagePath, absoluteImagePath) = GetImagePath(description);
-        bool savedSuccessfully = SaveImage(absoluteImagePath);
-        if (savedSuccessfully)
+        if (this.tmpFile == null)
         {
-            AddTodo(description, relativeImagePath);
+            AddTodo(description);
+        }
+        else
+        {
+            var (relativeImagePath, absoluteImagePath) = GetImagePath(description);
+            bool savedSuccessfully = SaveImage(absoluteImagePath);
+            if (savedSuccessfully)
+            {
+                AddTodo(description, relativeImagePath);
+            }
         }
 
     }
@@ -115,6 +127,8 @@ public partial class PrintscreenToTodoForm : Form
     }
     private bool SaveImage(string fullPath)
     {
+        if (this.tmpFile == null) throw new InvalidOperationException();
+
         try
         {
             Directory.CreateDirectory(Path.GetDirectoryName(fullPath)!);
@@ -143,9 +157,18 @@ public partial class PrintscreenToTodoForm : Form
         string todoFilePath = Extensions.GetTodoFile();
         string fullImagePath = relativeImagePath.Replace('\\', '/');
         string[] lines = new[] {
-            $"# {description}",
+            $"- {description}",
             $"![[{fullImagePath}]]",
             "",
+        };
+
+        File.AppendAllLines(todoFilePath, lines);
+    }
+    private void AddTodo(string description)
+    {
+        string todoFilePath = Extensions.GetTodoFile();
+        string[] lines = new[] {
+            $"- {description}"
         };
 
         File.AppendAllLines(todoFilePath, lines);

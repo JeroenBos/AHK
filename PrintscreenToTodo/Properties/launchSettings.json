@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrintscreenToTodo": {
+      "commandName": "Project",
+      "commandLineArgs": "true"
+    }
+  }
+}

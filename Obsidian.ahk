@@ -16,7 +16,8 @@ WaitForClipAndAddToFile()
 AddToFile()
 {
     Sleep, 100 ; otherwise ClipToFile is under the current programs
-    RunWait, "C:\Program Files\AHK\PrintscreenToTodo\PrintscreenToTodo.exe"
+    ; false is the omitPrintscreen parameter
+    RunWait, "C:\Program Files\AHK\PrintscreenToTodo\PrintscreenToTodo.exe" "false"
 }
 
 
@@ -49,8 +50,16 @@ AddToFile()
     AddToFile()
     return
 }
-~#+t::
+
+; d for Done
+~#+d::
 {
     RunWait, "C:\Program Files\AHK\NoteWork\NoteWork.exe"
 }
 
+; t for Todo
+~#+t::
+{
+    ; false is the omitPrintscreen parameter
+    RunWait, "C:\Program Files\AHK\PrintscreenToTodo\PrintscreenToTodo.exe" "true"
+}
