@@ -85,7 +85,9 @@ public partial class NoteWorkForm : Form
                     return index;
                 }
             }
-            return existingLines.Count;
+
+            var lastNonEmptyLineIndex = existingLines.LastIndexOf(line => !IsEmptyLine(line));
+            return lastNonEmptyLineIndex + 1;
         }
 
         bool IsHeader(string line)
@@ -128,6 +130,19 @@ static class Extensions
     public static InsertionList<T> ToInsertionList<T>(this IEnumerable<T> sequence, int insertionIndex)
     {
         return new InsertionList<T>(sequence.ToList(), insertionIndex);
+    }
+    public static int LastIndexOf<T>(this IReadOnlyCollection<T> sequence, Func<T, bool> predicate)
+    {
+        int index = sequence.Count - 1;
+        foreach (var item in sequence.Reverse())
+        {
+            if (predicate(item))
+            {
+                return index;
+            }
+            index--;
+        }
+        return -1;
     }
 }
 
