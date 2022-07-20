@@ -234,6 +234,12 @@ ref int requiredSize);
 ref DeviceInfoData deviceInfoData, [In()]
 ref PropertyChangeParameters classInstallParams, int classInstallParamsSize);
 
+
+
+        // devInst is an uint32 - this matters on 64-bit
+        [DllImport("cfgmgr32.dll", SetLastError = true)]
+        public static extern int CM_Get_DevNode_Status(out uint status, out uint probNum, int devInst, int flags = 0);
+
     }
 
     internal class SafeDeviceInfoSetHandle : SafeHandleZeroOrMinusOneIsInvalid
@@ -258,40 +264,59 @@ ref PropertyChangeParameters classInstallParams, int classInstallParamsSize);
         {
         }
 
-        /// <summary>
-        /// Enable or disable a device.
-        /// </summary>
-        /// <param name="classGuid">The class guid of the device. Available in the device manager.</param>
-        /// <param name="instanceId">The device instance id of the device. Available in the device manager.</param>
-        /// <param name="enable">True to enable, False to disable.</param>
-        /// <remarks>Will throw an exception if the device is not Disableable.</remarks>
-        public static void SetDeviceEnabled(Guid classGuid, string instanceId, bool enable)
+public static void ToggleDeviceEnabled(Guid classGuid, string instanceId)
+{
+    SafeDeviceInfoSetHandle diSetHandle = null;
+    try
+    {
+        (diSetHandle, var did) = GetDeviceInfo(classGuid, instanceId);
+        // according to https://stackoverflow.com/a/13105326/308451
+        // the answer might lie in CM_Get_DevNode_Status. Let's try.
+
+        int result = NativeMethods.CM_Get_DevNode_Status(out uint devNodeStatus, out uint probNum, did.DevInst);
+        // return value meanings are in Cfgmgr32.h., but CR_SUCCESS is one of them
+        const int CR_SUCCESS = 0;
+        if (result != CR_SUCCESS)
+            throw new Win32Exception();
+
+        // devNodeStatus now contains status bit flags: any combination of the DN_- prefixed bit flags defined in Cfg.h.
+        // one of the flags is
+        const uint DN_STARTED = 0x00000008; // Is currently configured
+
+        bool currentlyEnabled = HasFlag(devNodeStatus, DN_STARTED);
+        bool enable = !currentlyEnabled;
+
+
+        EnableDevice(diSetHandle, did, enable);
+    }
+    finally
+    {
+        if (diSetHandle != null)
         {
-            SafeDeviceInfoSetHandle diSetHandle = null;
-            try
+            if (diSetHandle.IsClosed == false)
             {
-                // Get the handle to a device information set for all devices matching classGuid that are present on the 
-                // system.
-                diSetHandle = NativeMethods.SetupDiGetClassDevs(ref classGuid, null, IntPtr.Zero, SetupDiGetClassDevsFlags.Present);
-                // Get the device information data for each matching device.
-                DeviceInfoData[] diData = GetDeviceInfoData(diSetHandle);
-                // Find the index of our instance. i.e. the touchpad mouse - I have 3 mice attached...
-                int index = GetIndexOfInstance(diSetHandle, diData, instanceId);
-                // Disable...
-                EnableDevice(diSetHandle, diData[index], enable);
+                diSetHandle.Close();
             }
-            finally
-            {
-                if (diSetHandle != null)
-                {
-                    if (diSetHandle.IsClosed == false)
-                    {
-                        diSetHandle.Close();
-                    }
-                    diSetHandle.Dispose();
-                }
-            }
+            diSetHandle.Dispose();
         }
+    }
+}
+
+static bool HasFlag(uint flags, uint flag)
+{
+    return (flags & flag) == flag;
+}
+private static (SafeDeviceInfoSetHandle, DeviceInfoData) GetDeviceInfo(Guid classGuid, string instanceId)
+{
+    // Get the handle to a device information set for all devices matching classGuid that are present on the system.
+    var diSetHandle = NativeMethods.SetupDiGetClassDevs(ref classGuid, null, IntPtr.Zero, SetupDiGetClassDevsFlags.Present);
+    // Get the device information data for each matching device.
+    DeviceInfoData[] diData = GetDeviceInfoData(diSetHandle);
+    // Find the index of our instance. i.e. the touchpad mouse - I have 3 mice attached...
+    int index = GetIndexOfInstance(diSetHandle, diData, instanceId);
+
+    return (diSetHandle, diData[index]);
+}
 
         private static DeviceInfoData[] GetDeviceInfoData(SafeDeviceInfoSetHandle handle)
         {
