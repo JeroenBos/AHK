@@ -1583,10 +1583,24 @@
 :*?:luc k::luck{Space}
 :*?:morngin::morning
 :*?:morningh::morning
+:*?:scenaroi::scenario
+:*?:drpo::drop
+:*?:everthi::everythi
+:*?:npote::note
+:*:aksed::asked
+::baesd::based
+:?*:ficture::fixture
+:*?:versoin::version
+:*?:extne::exten
+:*?:seocnd::second
+:*?:blakc::black
+:*?:shortbut::shortcut
+:*?:shortvut::shortcut
+:*?:turotial::tutorial
+:*?:exaclty::exactly
+
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
-
-
 
 
 ; not typos, but for ease of use
@@ -1605,13 +1619,14 @@
 :*?:yarn linkt::yarn link
 :*?:npm run install::npm install
 :*?:docker build and run::docker run -it $(docker build -q .)
-:?*:source venv::source venv/bin/activate
+:?*:source venv::source venv/Scripts/activate
 :?*:source /venv::source /venv/bin/activate
 :*:parquest::parquet
 :*?:git yarn::yarn
 :*?:gitp ul::git pul
 :*?:poetry run flight server::STORAGE_PATH=TMP poetry run python -m tests.arrow.server
-:*?:poetry activate::source "$(dirname $(poetry run which python))/activate"
+:*?:poetry activate::deactivate; source "$(dirname $(poetry run which python))/activate"
+:*?:poetry clean::poetry env remove "$(which python | head -n 1)" && poetry install && source "$(dirname $(poetry run which python | head -n 1))/activate"
 :*?:gihub::github
 :*?:git assimilate typings::git assimilate typings -- connector/typings/**
 :*?:~./bashrc::~/.bashrc
@@ -1622,6 +1637,8 @@
 :*?c:openTel::OpenTelemetry
 :*?c:OpenTel::OpenTelemetry
 :*?c:OpenTEl::OpenTelemetry
+:*?:falke8::flake8
+:?*:lfake8::flake8
 :*?:git merge ma::git fetch && git merge origin/ma
 :?*:git reset --hard origin/::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
