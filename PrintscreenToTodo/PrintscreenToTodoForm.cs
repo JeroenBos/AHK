@@ -161,7 +161,7 @@ public partial class PrintscreenToTodoForm : Form
         string todoFilePath = Extensions.GetTodoFile();
         string fullImagePath = relativeImagePath.Replace('\\', '/');
         string[] lines = new[] {
-            $"- {description}",
+            Extensions.GetTemplate(description),
             $"![[{fullImagePath}]]",
             "",
         };
@@ -172,7 +172,7 @@ public partial class PrintscreenToTodoForm : Form
     {
         string todoFilePath = Extensions.GetTodoFile();
         string[] lines = new[] {
-            $"- {description}"
+            Extensions.GetTemplate(description)
         };
 
         File.AppendAllLines(todoFilePath, lines);
@@ -216,18 +216,44 @@ public static class Extensions
     }
     public static string GetTodoFile()
     {
-        string? value = ConfigurationManager.AppSettings.Get("TodoFile");
+        const string key = "TodoFile";
+        string? value = ConfigurationManager.AppSettings.Get(key);
         if (value == null)
         {
-            throw new ConfigurationErrorsException("Configuration 'TodoFile' not found in app.config");
+            throw new ConfigurationErrorsException($"Configuration '{key}' not found in app.config");
         }
         if (!Path.IsPathFullyQualified(value))
         {
-            throw new ConfigurationErrorsException("Configuration 'TodoFile' must be a full path");
+            throw new ConfigurationErrorsException($"Configuration '{key}' must be a full path");
         }
 
         var result = Path.GetFullPath(value);
         return result;
+    }
+    private const string templatePlaceholder = "{0}";
+    public static string GetTemplate()
+    {
+        const string key = "Template";
+        string? template = ConfigurationManager.AppSettings.Get(key);
+        if (template == null)
+        {
+            // default template:
+            template = "- [ ] {0}";
+        }
+        if (!template.Contains(templatePlaceholder))
+        {
+            throw new ConfigurationErrorsException($"Configuration '{key}' invalid: must contain placeholder '{templatePlaceholder}'");
+        }
+        if (template.Contains("{1}"))
+        {
+            throw new ConfigurationErrorsException($"Configuration '{key}' invalid: '{{1}}' will not be replaced by anything");
+        }
+        return template;
+    }
+    public static string GetTemplate(string description)
+    {
+        string template = GetTemplate();
+        return template.Replace(templatePlaceholder, description);
     }
     public static string ReplaceInvalidChars(this string path)
     {
