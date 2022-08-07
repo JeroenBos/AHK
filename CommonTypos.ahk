@@ -59,7 +59,7 @@
 :*?:almots::almost
 :*?:almsot::almost
 :*?:alomst::almost
-:*?:alot::a lot
+:?:alot::a lot  ; alotted
 :*?:alraedy::already
 :*?:alreayd::already
 :*?:alreday::already
