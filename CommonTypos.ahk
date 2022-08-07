@@ -394,7 +394,6 @@
 :*?:ezxport::export
 :*?:faeture::feature
 :*?:faetures::features
-:*?:falke8::flake8
 :*?:familair::familiar
 :*?:familar::familiar
 :*?:familliar::familiar
