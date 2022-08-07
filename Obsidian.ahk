@@ -9,8 +9,9 @@ SetWorkingDir, %A_ScriptDir%
 WaitForClipAndAddToFile()
 {
     KeyWait, LButton, D
+    ; TODO: detect if any other key had been pressed and then cancel
     KeyWait, LButton
-
+    ; TODO: detect if any other key had been pressed and then cancel
     AddToFile()
 }
 AddToFile()
@@ -58,10 +59,10 @@ AddToFile()
     return
 }
 
-; t for Todo
-#+t::
+; t for Todo; for some reason #+t is different than the others, e.g. #+d. tilde is required, otherwise the windows menu pops up
+~#+t::
 {
-    ; false is the omitPrintscreen parameter
+    ; "true" is the omitPrintscreen parameter
     RunWait, "C:\Program Files\AHK\PrintscreenToTodo\PrintscreenToTodo.exe" "true"
     return
 }
