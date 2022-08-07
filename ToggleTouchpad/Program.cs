@@ -1,8 +1,13 @@
 ﻿using DisableDevice;
 
+if (!AdminPrivilege.ProgramIsElevated)
+{
+    Console.WriteLine("Error: the program must be executed with admin rights");
+    return 1;
+}
 if (args.Length > 1)
 {
-    Console.WriteLine("Expected 0 or 1 argument");
+    Console.WriteLine("Error: Expected 0 or 1 argument");
     return 1;
 }
 
