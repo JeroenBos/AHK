@@ -429,7 +429,8 @@
 :*?:freindly::friendly
 :*?:freinds::friends
 :*?:frmo::from
-::fro::for
+; ::fro::for becaue I type "fro m" a lot and that becomes "ffor" for some reason
+:*:fro m::from{Space}
 :*?:fromthe::from the
 :*?:fromt he::from the
 :*?:furneral::funeral
@@ -1168,7 +1169,6 @@
 :*?:plyugin::plugin
 :*?:satsh::stash
 :*?:optiosn::options
-::fro::for
 ::lcoal::local
 ::dwebug::debug
 :*?:flaot::float
@@ -1441,7 +1441,8 @@
 :*?:vooid::void
 :*?:dopcum::docum
 :*?:htrml::html
-:*?:interla::internal
+:?:interla::internal  ; interlaced
+:*?:interlan::internal
 :*?:pushg::push
 :*?:vbalue::value
 :*?:develoepr::developer
@@ -1598,6 +1599,63 @@
 :*?:shortvut::shortcut
 :*?:turotial::tutorial
 :*?:exaclty::exactly
+:*?:alloewd::allowed
+:*?:quetsi::questi
+:*?:checlist::checklist
+:*?:emial::email
+:*?:I\'m::I'm
+:*?:it\'s::it's
+:*?:you\'::you'
+:*?:suddenyl::suddenly
+::goota::gotta
+:*?:consdier::consider
+::ot::to
+:*?:resukl::resul
+:*?:pytonh::python
+:*?:furthre::further
+::clal::call
+:?*:entoin::ention
+; :?*:entoins::entions
+:*?:actoin::action
+; :*?:actoins::actions
+:?*:occuring::occurring
+:*?:concious::conscious
+:*?:concsious::conscious
+:*?:vulcano::volcano
+:*?:hierarcy::hierarchy
+:*?:tihnk::think
+:*:impor t::import{Space}
+:*:rebas e::rebase{Space}
+:*?:ocmment::comment
+:*?:particualr::particular
+:*?:deifne::define
+:*?:ocmpare::compare
+:*?:compalins::complains
+:*?:recommentat::recommendat
+:*?:optoinal::optional
+:*?:extesion::extension
+:*?:ptoin::ption
+:*?:mananger::manager
+:*?:temri::termi
+:*?:esatbl::establ
+:*?:incresa::increas
+:*?:striclty::strictly
+:*?:reposnb::responsib
+:*?:thgouth::thought
+:*?:tghouth::thought
+:*?:thgought::thought
+:*?:copmlain::complain
+:*?:accomod::accommod
+:*?:reposiory::repository
+:*?:recommencat::recommendat
+::aidit::audit
+:*?:matadata::metadata
+:*?:remakr::remark
+::juts::just
+:?*:youself::yourself
+:*?:developement::development
+:*?:jyust::just
+:*?:juyst::just
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1630,6 +1688,8 @@
 :*?:gihub::github
 :*?:git assimilate typings::git assimilate typings -- connector/typings/**
 :*?:~./bashrc::~/.bashrc
+:*?:~/.,bashrc::~/.bashrc
+:*?:~/,.bashrc::~/.bashrc
 :*?:pytest int::INTEGRATION_TESTS=true pytest .
 :*?:int pytest::INTEGRATION_TESTS=true pytest .
 ; :?:pylint::black .{ENTER}flake8{ENTER}mypy{ENTER}INTEGRATION_TESTS=true pytest .{ENTER}  should be a script instead that stops when one fails
@@ -1639,7 +1699,8 @@
 :*?c:OpenTEl::OpenTelemetry
 :*?:falke8::flake8
 :?*:lfake8::flake8
-:*?:git merge ma::git fetch && git merge origin/ma
+:*?:git merge main::git fetch && git merge -m "Merge `main`" origin/main
+:*?:git merge master::git fetch && git merge -m "Merge `main`" origin/master
 :?*:git reset --hard origin/::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :*?:gh auth login::gh auth login --with-token <<< $(cat $HOME/.ssh/gh_token)
@@ -1651,15 +1712,9 @@
 :*?:argo apply::argo submit
 :*?:glcoud::gcloud
 :*?:pytes t::pytest{Space}
-:*?:emial::email
-:*?:I\'m::I'm
-:*?:it\'s::it's
-:*?:you\'::you'
-:*?:suddenyl::suddenly
-::goota::gotta
-:*?:consdier::consider
-::ot::to
-:*?:resukl::resul
+:*?:psycogp::psycopg
+:*?:npm lint::npm{Space}run{Space}lint
+:*?:git reset main::git reset $(git merge-base HEAD main)
 
 ; Norwegian
 :*?:fodels::fødsels
