@@ -3,11 +3,13 @@
 if (!AdminPrivilege.ProgramIsElevated)
 {
     Console.WriteLine("Error: the program must be executed with admin rights");
+    Console.Read();
     return 1;
 }
 if (args.Length > 1)
 {
     Console.WriteLine("Error: Expected 0 or 1 argument");
+    Console.Read();
     return 1;
 }
 
