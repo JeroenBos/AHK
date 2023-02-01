@@ -1059,8 +1059,8 @@
 :*?:yuor::your
 :*?:hakon::håkon
 :*?:self driven::self-driven
-:c*:Remin::ReMin
-:c*:Github::GitHub
+:c:Remin::ReMin
+:c:Github::GitHub
 :*?:moemen::momen
 :*?:moemnt::moment
 :*?:fitler::filter
@@ -1656,6 +1656,14 @@
 :*?:developement::development
 :*?:jyust::just
 :*?:juyst::just
+:*?:tohught::thought
+:*?:misisng::missing
+:*?:easilty::easilty
+:*?:waitinf::waiting
+:*?:intenral::internal
+:*?:hedaer::header
+::clinet::client
+:*?:prims::prism
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1699,8 +1707,8 @@
 :*?c:OpenTEl::OpenTelemetry
 :*?:falke8::flake8
 :?*:lfake8::flake8
-:*?:git merge main::git fetch && git merge -m "Merge `main`" origin/main
-:*?:git merge master::git fetch && git merge -m "Merge `main`" origin/master
+:*?:git merge main::git fetch && git merge -m "Merge 'main'" origin/main
+:*?:git merge master::git fetch && git merge -m "Merge 'master'" origin/master
 :?*:git reset --hard origin/::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :*?:gh auth login::gh auth login --with-token <<< $(cat $HOME/.ssh/gh_token)
@@ -1726,7 +1734,7 @@
 ; Dutch
 ::neit::niet
 :c:Begum::Begüm
-
+::misshcien::misschien
 
 ; Miscellaneous
 #+PrintScreen::Send #+s ; #+s maps to the Windows screen snipping tool
