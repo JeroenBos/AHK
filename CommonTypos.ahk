@@ -1665,6 +1665,7 @@
 ::clinet::client
 :*?:prims::prism
 
+
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
 
@@ -1723,6 +1724,7 @@
 :*?:psycogp::psycopg
 :*?:npm lint::npm{Space}run{Space}lint
 :*?:git reset main::git reset $(git merge-base HEAD main)
+:*?:npm ru n::npm run{Space}
 
 ; Norwegian
 :*?:fodels::fødsels
