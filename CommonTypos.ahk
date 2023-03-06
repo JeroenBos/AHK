@@ -1731,6 +1731,7 @@
 :*?:npm ru n::npm run{Space}
 :*?:uwnip::unwip
 :?:giut::git
+:*?:cd..::cd{Space}..
 
 ; Norwegian
 :*?:fodels::fødsels
