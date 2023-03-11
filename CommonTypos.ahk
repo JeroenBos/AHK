@@ -440,7 +440,7 @@
 ::gdo::god
 :*?:gemeral::general
 :*?:gerat::great
-:*?:geting::getting
+:*:geting::getting  ; targeting
 ::gettin::getting
 :*?:ghard::hard
 :*?:gi5t::git
@@ -1153,7 +1153,6 @@
 :*?:elemetn::element
 :*?:specifeid::specified
 :*?:giut::git::
-:*?:dontet::dotnet
 ::tiem::time
 :*?:runtiem::runtime
 :*?:nubmer::number
@@ -1669,6 +1668,13 @@
 :*?:elemnet::element
 :*?:elkeme::eleme
 :*?:ensiosn::ensions
+:*?:cahracter::character
+:*?:lienar::linear
+:*?:worksoph::workshop
+:*?:veersion::version
+::puhs::push
+:*?:defautl::default
+:*?:nulalble::nullable
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1676,6 +1682,7 @@
 
 ; not typos, but for ease of use
 :*?:*-)::🤔
+:*?::thinking::🤔
 :*?:(a)::😇
 :*?::wip::🚧
 :*?::expressionless::😑
@@ -1731,7 +1738,14 @@
 :*?:npm ru n::npm run{Space}
 :*?:uwnip::unwip
 :?:giut::git
+<<<<<<< HEAD
 :*?:cd..::cd{Space}..
+=======
+:*?:npm install --clean::rm -rf ./node_modules/ && npm install
+:*?:npm upgrade::rm -rf ./node_modules/ && npm i -g npm-check-updates && ncu -u && npm install
+:*?:dontet::dotnet
+:*?:dotent::dotnet
+>>>>>>> 1af80ff (More typos)
 
 ; Norwegian
 :*?:fodels::fødsels
@@ -1756,6 +1770,11 @@ RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-handed 
 :c*:JBsn::JBSn
 :*?:jbanorro::jbsnorro
 :*?:jerone::jeroen
+:*?c:POsit::Posit
+:*?c:NOde::Node
+:*?c:Tparse::TParse
+:*?c:ADd::Add
+:*?:mergeg::merge
 
 
 ; greek
