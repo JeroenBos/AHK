@@ -70,8 +70,8 @@ AddToFile()
 
 ; e for enable
 ; this unfortunately requires admin rights :/ and probably requires that obsidian.exe is started with admin rights :/
-#+e::
-{
-    RunWait, "C:\Program Files\AHK\ToggleTouchpad\ToggleTouchpad.exe"
-    return
-}
+; #+e::
+; {
+;     RunWait, "C:\Program Files\AHK\ToggleTouchpad\ToggleTouchpad.exe"
+;     return
+; }
