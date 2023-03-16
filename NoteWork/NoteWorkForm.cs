@@ -113,6 +113,7 @@ static class Extensions
         {
             throw new ConfigurationErrorsException("Configuration 'DoneFile' not found in app.config");
         }
+        value = Environment.ExpandEnvironmentVariables(value);
         if (!Path.IsPathFullyQualified(value))
         {
             throw new ConfigurationErrorsException("Configuration 'DoneFile' must be a full path");
