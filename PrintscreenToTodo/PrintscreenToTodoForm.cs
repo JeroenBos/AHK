@@ -222,6 +222,7 @@ public static class Extensions
         {
             throw new ConfigurationErrorsException($"Configuration '{key}' not found in app.config");
         }
+        value = Environment.ExpandEnvironmentVariables(value);
         if (!Path.IsPathFullyQualified(value))
         {
             throw new ConfigurationErrorsException($"Configuration '{key}' must be a full path");
