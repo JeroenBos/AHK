@@ -681,6 +681,7 @@
 :*?:peice::piece
 :*?:peices::pieces
 :*?:peoetry::poetry
+:*?:poetery::poetry
 :*?:peoetryy::poetry
 :*?:peolpe::people
 :*?:peopel::people
@@ -1681,6 +1682,8 @@
 :*?:implment:implement
 :*?:compability::compability
 :*?:suppsoe::suppose
+:*?:l9ocal::local
+:*?:ehco::echo
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1744,14 +1747,19 @@
 :*?:npm ru n::npm run{Space}
 :*?:uwnip::unwip
 :?:giut::git
-<<<<<<< HEAD
 :*?:cd..::cd{Space}..
-=======
 :*?:npm install --clean::rm -rf ./node_modules/ && npm install
 :*?:npm upgrade::rm -rf ./node_modules/ && npm i -g npm-check-updates && ncu -u && npm install
 :*?:dontet::dotnet
 :*?:dotent::dotnet
->>>>>>> 1af80ff (More typos)
+:*?:locahost::localhost
+:*?:popualtion::population
+:*?:comaprer::comparer
+:*?:enouhg::enough
+:*?:intergation::integration
+:*?:qutoe::quote
+:*?:npm install --clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
+:*?:npm clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
 
 ; Norwegian
 :*?:fodels::fødsels
