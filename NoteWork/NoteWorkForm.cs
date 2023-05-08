@@ -67,7 +67,7 @@ public partial class NoteWorkForm : Form
             lines.Add("");
             lines.Add(todayHeader);
         }
-        lines.Add($"- [ ] {this.Description}");
+        lines.Add($"- {this.Description}");
         File.WriteAllLines(donePath, lines);
 
 
