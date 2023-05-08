@@ -1728,8 +1728,6 @@
 :*?c:OpenTEl::OpenTelemetry
 :*?:falke8::flake8
 :?*:lfake8::flake8
-:*?:git merge main::git fetch && git merge -m "Merge 'main'" origin/main
-:*?:git merge master::git fetch && git merge -m "Merge 'master'" origin/master
 :?*:git reset --hard origin/::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :*?:gh auth login::gh auth login --with-token <<< $(cat $HOME/.ssh/gh_token)
@@ -1748,7 +1746,6 @@
 :*?:uwnip::unwip
 :?:giut::git
 :*?:cd..::cd{Space}..
-:*?:npm install --clean::rm -rf ./node_modules/ && npm install
 :*?:npm upgrade::rm -rf ./node_modules/ && npm i -g npm-check-updates && ncu -u && npm install
 :*?:dontet::dotnet
 :*?:dotent::dotnet
