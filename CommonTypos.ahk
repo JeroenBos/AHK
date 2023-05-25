@@ -63,7 +63,7 @@
 :*?:alraedy::already
 :*?:alreayd::already
 :*?:alreday::already
-:*?:altogether::alltogether
+:*?:alltogether::altogether
 :*?:alwasy::always
 :*?:alwats::always
 :*?:alway s::always
@@ -1684,6 +1684,10 @@
 :*?:suppsoe::suppose
 :*?:l9ocal::local
 :*?:ehco::echo
+:*?:pracitioner::practitioner
+:*?:veerify::verify
+:*?:inteer::inter
+:*?:everyhing::everything
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1728,8 +1732,8 @@
 :*?c:OpenTEl::OpenTelemetry
 :*?:falke8::flake8
 :?*:lfake8::flake8
-:?*:git reset --hard origin/::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
-:?:git reset --hard origin::git fetch && git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
+:?*:git reset --hard origin/::git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
+:?:git reset --hard origin::git reset --hard "origin/$(git rev-parse --abbrev-ref HEAD)"
 :*?:gh auth login::gh auth login --with-token <<< $(cat $HOME/.ssh/gh_token)
 :*?:ulogn::ulong
 :*?:uylong::ulong
@@ -1757,6 +1761,7 @@
 :*?:qutoe::quote
 :*?:npm install --clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
 :*?:npm clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
+:*?:docker dev::docker compose --profile dev up
 
 ; Norwegian
 :*?:fodels::fødsels
