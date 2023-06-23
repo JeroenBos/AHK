@@ -460,7 +460,7 @@
 :*?:gruops::groups
 :*?:grwo::grow
 :*?:guidlines::guidelines
-:*?:guit::git
+:?:guit::git  ; guitar
 :*?:hadbeen::had been
 :*?:haev::have
 :*?:hanlded::handled
@@ -1688,6 +1688,11 @@
 :*?:veerify::verify
 :*?:inteer::inter
 :*?:everyhing::everything
+:*:dwon::down
+:*?:loation::location
+:*?:practitioenr::practitioner
+:*?:anyhwere::anywhere
+:*?:scheduel::schedule
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1699,6 +1704,7 @@
 :*?:(a)::😇
 :*?::wip::🚧
 :*?::expressionless::😑
+:*?::sunglasses::😎
 :*?::shrug::🤷‍♂️
 :*?::euro::€
 :*?::paragraph::§
