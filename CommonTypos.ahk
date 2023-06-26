@@ -1693,6 +1693,11 @@
 :*?:practitioenr::practitioner
 :*?:anyhwere::anywhere
 :*?:scheduel::schedule
+:*?:goiogn::going
+:*?:scheudle::schedule
+::caleld::called
+::multipel::multiple
+::compsoe::compose
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1768,7 +1773,8 @@
 :*?:npm install --clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
 :*?:npm clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
 :*?:docker dev::docker compose --profile dev up
-
+:*?:git cp cpu::[[ {!} -z "$(git is-dirty)" ]] && echo "Error: Working state dirty"; [[ -z "$(git is-dirty)" ]] && git cp cpu && git reset @~ && git update-index --assume-unchanged '/c/git/surgery-planning/docker-compose.yaml'
+:*?:git revert cpu::git update-index --no-assume-unchanged '/c/git/surgery-planning/docker-compose.yaml' && git checkout -- '/c/git/surgery-planning/docker-compose.yaml'
 ; Norwegian
 :*?:fodels::fødsels
 :*?:fodsels::fødsels
