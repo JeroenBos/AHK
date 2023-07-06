@@ -1724,7 +1724,7 @@
 ; programming
 :*?:yarn linkt::yarn link
 :*?:npm run install::npm install
-:*?:docker build and run::docker run -it $(docker build -q .)
+:*?:docker build and run::docker run -it $(docker build -q . 2> /dev/null)
 :?*:source venv::source venv/Scripts/activate
 :?*:source /venv::source /venv/bin/activate
 :*:parquest::parquet
