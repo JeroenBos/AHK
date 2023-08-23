@@ -1781,6 +1781,8 @@
 :*?:docker dev::docker compose --profile dev up
 :*?:git cp cpu::[[ {!} -z "$(git is-dirty)" ]] && echo "Error: Working state dirty"; [[ -z "$(git is-dirty)" ]] && git cp cpu && git reset @~ && git update-index --assume-unchanged '/c/git/surgery-planning/docker-compose.yaml'
 :*?:git revert cpu::git update-index --no-assume-unchanged '/c/git/surgery-planning/docker-compose.yaml' && git checkout -- '/c/git/surgery-planning/docker-compose.yaml'
+:*?:estlin::eslint
+
 ; Norwegian
 :*?:fodels::fødsels
 :*?:fodsels::fødsels
