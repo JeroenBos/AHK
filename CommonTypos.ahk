@@ -1703,6 +1703,12 @@
 :*?:retuirn::return
 :*?:altough::although
 ::mian::main
+:*:ensted::nested
+:*?:worht::worth
+::readonyl::readonly
+:*?:internla::internal
+:*?:immeidate::immediate
+::toekn::token
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1722,9 +1728,11 @@
 :?*:\-+::∓
 :?*:\approx::≈
 :?*:\paragraph::§
+:?*:\--::—
 ; programming
 :*?:yarn linkt::yarn link
 :*?:npm run install::npm install
+:*?:npx test::npx jest
 :*?:docker build and run::docker run -it $(docker build -q . 2> /dev/null)
 :?*:source venv::source venv/Scripts/activate
 :?*:source /venv::source /venv/bin/activate
@@ -1815,40 +1823,40 @@ RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-handed 
 
 ; greek
 
-::\alpha::α
-::\beta::β
-::\gamma::γ
-::\Gamma::Γ
-::\Delta::Δ
-::\delta::δ
-::\epsilon::ε
-::\eta::η
-::\theta::θ
-::\Theta::Θ
-::\iota::ι
-::\kappa::κ
-::\Lambda::Λ
-::\lambda::λ
-::\Zeta::Ζ
-::\zeta::ζ
-::\mu::μ
-::\nu::ν
-::\pi::π
-::\Pi::Π
-::\rho::ρ
-::\tau::τ
-::\xi::ξ
-::\Xi::Ξ
-::\Upsilon::Υ
-::\upsilon::υ
-::\Phi::Φ
-::\phi::φ
-::\Chi::Χ
-::\chi::χ
-::\Psi::Ψ
-::\psi::ψ
-::\Omega::Ω
-::\omega::ω
-::\sigma::σ
-::\Sigma::Σ
+:?*:\alpha::α
+:?*:\beta::β
+:?*:\gamma::γ
+:?*:\Gamma::Γ
+:?*:\Delta::δ
+:?*:\delta::Δ
+:?*:\epsilon::ε
+:?*:\eta::η
+:?*:\theta::θ
+:?*:\Theta::Θ
+:?*:\iota::ι
+:?*:\kappa::κ
+:?*:\Lambda::Λ
+:?*:\lambda::λ
+:?*:\Zeta::Ζ
+:?*:\zeta::ζ
+:?*:\mu::μ
+:?*:\nu::ν
+:?*:\pi::π
+:?*:\Pi::Π
+:?*:\rho::ρ
+:?*:\tau::τ
+:?*:\xi::ξ
+:?*:\Xi::Ξ
+:?*:\Upsilon::Υ
+:?*:\upsilon::υ
+:?*:\Phi::Φ
+:?*:\phi::φ
+:?*:\Chi::Χ
+:?*:\chi::χ
+:?*:\Psi::Ψ
+:?*:\psi::ψ
+:?*:\Omega::Ω
+:?*:\omega::ω
+:?*:\sigma::σ
+:?*:\Sigma::Σ
 
