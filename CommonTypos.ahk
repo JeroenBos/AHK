@@ -613,6 +613,7 @@
 :*?:motorcyckle::motorcycle
 :*?:motorcyucle::motorcycle
 ::mroe::more
+::msot::most
 :*?:mysefl::myself
 ::myu::my
 :*?:naother::another
@@ -627,6 +628,7 @@
 :*?:nmae::name
 :*?:nothign::nothing
 :?:nver::never
+:*?:niegh::neigh
 ::nwe::new
 ::nwo::now
 :*?:obediant::obedient
