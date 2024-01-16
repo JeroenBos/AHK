@@ -1100,6 +1100,7 @@
 :*?:udpate::update
 ::omfr::from
 ::fronm::from
+:*?:frontned::frontend
 :*?:proeprt::propert
 ::psuh::push
 :*?:environemtn::environment
