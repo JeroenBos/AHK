@@ -1734,6 +1734,8 @@
 :?*:\approx::≈
 :?*:\paragraph::§
 :?*:\--::—
+:?*:\->::→
+:?*:\<-::←
 ; programming
 :*?:yarn linkt::yarn link
 :*?:npm run install::npm install
