@@ -589,6 +589,7 @@
 ::loev::love
 ::lonly::lonely
 :*?:lookign::looking
+:*?:machien::machine
 :*?:maintenence::maintenance
 :*?:makeing::making
 :*?:managment::management
@@ -803,6 +804,7 @@
 :*?:rumers::rumors
 :*?:rwite::write
 :*?:rythm::rhythm
+:*?:remobe::remove
 :*?:saidhe::said he
 :*?:saidit::said it
 :*?:saidt h e::said the
