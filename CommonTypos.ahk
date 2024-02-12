@@ -1263,6 +1263,7 @@
 :*?:domaion::domain
 :*?:javscript::javascript
 :*?:undefiend::undefined
+:*?:udnefined::undefined
 :*?:wanring::warning
 :*?:polyfon::polygon
 :*?:poitn::point
