@@ -172,6 +172,7 @@
 :*?:branhc::branch
 :*?:brodcast::broadcast
 :*?:butthe::but the
+:*?:baselime::baseline
 ::buyt::but
 ::bvault::vault
 ::bve::be
@@ -434,6 +435,7 @@
 :*?:fromthe::from the
 :*?:fromt he::from the
 :*?:furneral::funeral
+:*?:funtion::function
 ::fwe::few
 :*?:garantee::guarantee
 :*?:gaurd::guard
@@ -1386,6 +1388,7 @@
 :*?:surpress::suppress
 :*?:enthousiastic::enthusiastic
 :*?:swithc::switch
+:*?:screesnhot::screenshot
 :*?:striubng::string
 :*?:directoary::directory
 :*?:alitry::ality
@@ -1407,6 +1410,7 @@
 :*?:betetr::better
 :*?:exceptoin::exception
 :*?:retyrb::return
+:*?:waitign::waiting
 :*?:fxiture::fixture
 :*?:righgt::right
 :*?:shortbut::shortcut
@@ -1739,6 +1743,8 @@
 :?*:\--::—
 :?*:\->::→
 :?*:\<-::←
+:*?:^2::²
+:*?:^3::³
 ; programming
 :*?:yarn linkt::yarn link
 :*?:npm run install::npm install
@@ -1830,7 +1836,7 @@ RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-handed 
 :*?c:Tparse::TParse
 :*?c:ADd::Add
 :*?:mergeg::merge
-
+::nxp::npx
 
 ; greek
 
