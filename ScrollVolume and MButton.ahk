@@ -2,7 +2,6 @@
 SetKeyDelay, 0
 
 MButton::
-    MsgBox Hi
     ctrl_down = true
     Send {Ctrl Down}
 Return
