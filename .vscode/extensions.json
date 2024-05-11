@@ -2,5 +2,6 @@
 	"recommendations": [
         "Tyriar.sort-lines",
 		"cweijan.vscode-autohotkey-plus",
+		"ryuta46.multi-command",
 	]
 }
