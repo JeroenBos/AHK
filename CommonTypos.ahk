@@ -25,6 +25,8 @@
 :*?:acheive::achieve
 :*?:acheived::achieved
 :*?:acheiving::achieving
+:*?:auhto::autho
+:*?:frotn::front
 ::acn::can
 :*?:acommodate::accommodate
 :*?:acomodate::accommodate
