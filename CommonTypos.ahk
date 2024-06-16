@@ -1793,6 +1793,7 @@
 :?:giut::git
 :*?:cd..::cd{Space}..
 :*?:npm upgrade::rm -rf ./node_modules/ && npm i -g npm-check-updates && ncu -u && npm install
+:*?:yamllitn::yamllint
 :*?:dontet::dotnet
 :*?:dotent::dotnet
 :*?:locahost::localhost
