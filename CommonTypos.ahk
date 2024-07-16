@@ -1726,6 +1726,21 @@
 :*?:contian::contain
 :*?:booekd::booked
 :*?:workflwo::workflow
+:*?:iamge::image
+:*?:hsote::hsote
+::buitl::built
+:*?:culrpit::culprit
+:*?:reprodcue::reproduce
+:*?:faield::failed
+:*?:forntend::frontend
+:*?:indepned::independ
+:*?:indenped::independ
+:*?:groudn::ground
+:*?:gruond::ground
+:*?:pusgh::push
+:*?:geenra::genera
+:*?:becauase::because
+:*?:upll::pull
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
