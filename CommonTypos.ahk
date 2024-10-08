@@ -1754,6 +1754,11 @@
 :*?:depede::depende
 :*?:cotnin::contin
 :*?:cuase::cause
+:*?:durign::during
+:*?:demosnt::demonst
+:*?:frontedn::frontend
+:*?:oeprat::operat
+:*?:invovl::involv
 
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
