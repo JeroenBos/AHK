@@ -1205,7 +1205,6 @@
 :*?:deskotp::desktop
 :*?:asycn::async
 :*?:struing::string
-:*?:isntead::instead
 ::gfit::git
 :*?:hieght::height
 :*?:cosnt::const
@@ -1244,7 +1243,6 @@
 ::elave::leave
 :*?:specifiy::specify
 :*?:specialities::specialties
-:*?:speciality::specialty
 :*?:existince::existence
 :*?:as7ync::async
 :*?:fethc::fetch
@@ -1759,6 +1757,9 @@
 :*?:frontedn::frontend
 :*?:oeprat::operat
 :*?:invovl::involv
+::lsit::list
+:*?:cibsike::console
+:*?:tpye::type
 
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
@@ -1824,7 +1825,6 @@
 :*?:pytes t::pytest{Space}
 :*?:psycogp::psycopg
 :*?:npm lint::npm{Space}run{Space}lint
-:*?:git reset main::git reset $(git merge-base HEAD main)
 :*?:npm ru n::npm run{Space}
 :*?:uwnip::unwip
 :?:giut::git
@@ -1847,6 +1847,7 @@
 :*?:git revert cpu::git update-index --no-assume-unchanged '/c/git/surgery-planning/docker-compose.yaml' && git checkout -- '/c/git/surgery-planning/docker-compose.yaml'
 :*?:estlin::eslint
 :*?:eslitn::eslint
+:c*:MIrjam:Mirjam
 
 ; Norwegian
 :*?:fodels::fødsels
