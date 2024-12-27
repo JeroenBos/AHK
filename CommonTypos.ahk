@@ -1761,6 +1761,7 @@
 :*?:cibsike::console
 :*?:tpye::type
 :*:gitp ::git{Space}p
+:*?:refacotr::refactor
 
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
@@ -1918,4 +1919,4 @@ RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-handed 
 :?*:\omega::ω
 :?*:\sigma::σ
 :?*:\Sigma::Σ
-
+:?*:\1/2::½
