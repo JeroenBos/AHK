@@ -1762,6 +1762,7 @@
 :*?:tpye::type
 :*:gitp ::git{Space}p
 :*?:refacotr::refactor
+:*?:uberh::überh
 
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
