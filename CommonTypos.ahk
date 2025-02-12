@@ -1764,6 +1764,8 @@
 :*?:refacotr::refactor
 :*?:uberh::überh
 :*?:protenct::protect
+:*?:repdocue::reproduce
+:*?:playwq::playw
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1824,7 +1826,10 @@
 :*?:uylong::ulong
 :*?:poetry where::dirname $(poetry run which python)
 :*?:git pull -p::git pull -p && git prune-locally
-:*?:git fetch -p::git fetch -p && git prune-locally
+:*?:fetch -p::fetch -p && git prune-locally
+:*?:rebase --c`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
+:*?:rebase --con`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
+:*?:rebase --cont`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
 :*?:argo apply::argo submit
 :*?:glcoud::gcloud
 :*?:pytes t::pytest{Space}
@@ -1923,3 +1928,10 @@ RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-handed 
 :?*:\sigma::σ
 :?*:\Sigma::Σ
 :?*:\1/2::½
+:?*:\doubleD::𝔻
+:?*:\doubleR::ℝ
+:?*:\doubleN::ℕ
+:?*:\doubleZ::ℤ
+:*?:\times::×
+:*?:\intersect::∩
+:*?:\union::∪
