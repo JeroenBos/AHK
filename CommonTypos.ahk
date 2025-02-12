@@ -1766,6 +1766,9 @@
 :*?:protenct::protect
 :*?:repdocue::reproduce
 :*?:playwq::playw
+:*?:nameps::namesp
+:*?:bugfs::bugs
+:?:bugf::bug
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1830,6 +1833,8 @@
 :*?:rebase --c`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
 :*?:rebase --con`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
 :*?:rebase --cont`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
+:*?:echo to stderr::>&2
+:*?:redirect to null::&>{Space}/dev/null
 :*?:argo apply::argo submit
 :*?:glcoud::gcloud
 :*?:pytes t::pytest{Space}
@@ -1849,6 +1854,7 @@
 :*?:enouhg::enough
 :*?:intergation::integration
 :*?:qutoe::quote
+:*?:-a-b::--ab
 ;:*?:npm install --clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
 :*?:npm install --clean::npm ci
 :*?:npm clean::t="$(mktemp -d)" && mv ./node_modules/ "$t" && ( nohup rm -rf "$t" &> /dev/null & ) && npm install
