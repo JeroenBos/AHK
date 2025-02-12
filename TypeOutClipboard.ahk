@@ -4,6 +4,7 @@ SetKeyDelay, 0
     if (Clipboard != A_Space and Clipboard != A_Tab and Clipboard != "") {
         clipboardCopy = %clipboard%
         truncatedCopy := SubStr(clipboardCopy, 1)
+        truncatedCopy := StrReplace(truncatedCopy, "\", "/")
         truncatedCopy := StrReplace(truncatedCopy, "`r`n", "`n")
         truncatedCopy := LTrim(truncatedCopy, OmitChars := " `r`n")
         truncatedCopy := RTrim(truncatedCopy, OmitChars := " `t`r`n")
