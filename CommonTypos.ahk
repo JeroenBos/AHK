@@ -905,7 +905,7 @@
 :*?:swqing::swing
 :*?:sybntax::syntax
 :*?:synbtax::syntax
-:*?:tahank::thank
+:*?:tahank::thankF
 :*?:tahanks::thanks
 ::tahn::than
 ::tahnk::thank
@@ -1771,6 +1771,7 @@
 :?:bugf::bug
 :*?:aboprt::abort
 :*?:reelas::releas
+:*?:simplift::simplif
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1885,6 +1886,7 @@ RControl & PgDn::Send {RControl Down}#{Right}{RControl Up}  ; enable one-handed 
 RControl & PgUp::Send {RControl Down}#{Left}{RControl Up}   ; enable one-handed desktop swapping
 #^PgDn:: Send #^{Right}
 #^PgUp:: Send #^{Left}
+#f:: Send ^{f}  ; I accidentally press Win+F sometimes → should be ctrl+F (otherwise that stupid Windows Feedback Hub is opened, I certainly never want _that_)
 :*?:jbsnoror::jbsnorro
 :c*:JBSN::JBSn
 :c*:JBsn::JBSn
