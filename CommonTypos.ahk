@@ -1068,7 +1068,6 @@
 :*?:yuor::your
 :*?:hakon::håkon
 :*?:self driven::self-driven
-:c:Remin::ReMin
 :c:Github::GitHub
 :*?:moemen::momen
 :*?:moemnt::moment
@@ -1772,6 +1771,12 @@
 :*?:aboprt::abort
 :*?:reelas::releas
 :*?:simplift::simplif
+:*:rese t::reset{Space}
+:*?:couont::count
+:*?:remaiing::remaining
+:*?:rewsul::resul
+:*?:vscop::vsco
+:*:copde::code
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1807,7 +1812,7 @@
 :?*:source /venv::source /venv/bin/activate
 :*:parquest::parquet
 :*?:git yarn::yarn
-:*?:gitp ul::git pul
+:*?:gitp u::git pu
 :*?:poetry run flight server::STORAGE_PATH=TMP poetry run python -m tests.arrow.server
 :*?:poetry activate::deactivate; source "$(dirname $(poetry run which python))/activate"
 :*?:poetry clean::poetry env remove "$(which python | head -n 1)" && poetry install && source "$(dirname $(poetry run which python | head -n 1))/activate"
@@ -1866,7 +1871,7 @@
 :*?:git revert cpu::git update-index --no-assume-unchanged '/c/git/surgery-planning/docker-compose.yaml' && git checkout -- '/c/git/surgery-planning/docker-compose.yaml'
 :*?:estlin::eslint
 :*?:eslitn::eslint
-:c*:MIrjam:Mirjam
+:c*:MIrjam::Mirjam
 
 ; Norwegian
 :*?:fodels::fødsels
