@@ -1777,6 +1777,20 @@
 :*?:rewsul::resul
 :*?:vscop::vsco
 :*:copde::code
+:*?:tracl::track
+:*?:impelm::implem
+:*?:coindg::coding
+:*?:coidng::coding
+:*?:expeted::expected
+:*?:hsot::host
+:*?:psot::post
+:*?:poseted::psoted
+:*?:posetd::psoted
+:*?:sirgery::surgery
+:*?:ioulsy::iously
+:*?:exp[r::expr
+:*?:tiaotn::tation
+:*?:dopcker::docker
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
