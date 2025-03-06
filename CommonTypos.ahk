@@ -1003,7 +1003,7 @@
 ::unti test::unit test
 :*?:useing::using
 :*?:usualyl::usually
-:*?:varaible:::variable
+:*?:varaible::variable
 :*?:varaible::variable
 :*?:varianble::variable
 :*?:veyr::very
@@ -1791,6 +1791,17 @@
 :*?:exp[r::expr
 :*?:tiaotn::tation
 :*?:dopcker::docker
+:*?:entrpoint::entrypoint
+:*?:numbewr::number
+:*?:sheild::shield
+:*:shiled::shield
+:*?:patietn::patient
+:*?:fortuante::fortunate
+:*?:bashrch::bashrc
+:*?:sytnax::syntax
+::lukc::luck
+:*?:preperatory::preparatory
+:*?:surpise::surprise
 
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
@@ -1801,6 +1812,7 @@
 :*?::thinking::🤔
 :*?:(a)::😇
 :*?::wip::🚧
+:*?:E@E::E2E
 :*?::expressionless::😑
 :*?::sunglasses::😎
 :*?::shrug::🤷‍♂️
