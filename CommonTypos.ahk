@@ -1746,6 +1746,7 @@
 :*?:awaot::await
 :*?:exprot::export
 :*?:palyw::playw
+:*?:prlayw::playw
 :*?:emtpy::empty
 :*?:inisght::insight
 :*?:depede::depende
