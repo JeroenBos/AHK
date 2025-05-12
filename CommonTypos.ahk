@@ -1809,7 +1809,13 @@
 :*?:packge::package
 :*?:appiont::appoint
 :*?:push]::push
-
+:*?:relesa::releas
+:*?:cspor::cspro
+:*?:buji::bui
+:*?:awlay::alway
+:*?:reomve:remove
+:*?:resuorce::resource
+::lgos::logs
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
 
@@ -1820,6 +1826,10 @@
 :*?:(a)::😇
 :*?::wip::🚧
 :*?:E@E::E2E
+:*?:stderr&&stdout::2>&1
+:*?:stdout&&std::2>&1
+:*?:stdout&&stderr::2>&1
+:*?:std&&::2>&1
 :*?::expressionless::😑
 :*?::sunglasses::😎
 :*?::shrug::🤷‍♂️
