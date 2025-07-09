@@ -1819,6 +1819,8 @@
 :*?:nagiva::naviga
 :*?:indluc::includ
 :*?:amybe::maybe
+:*?:ifnra::infra
+:*?:foramt::format
 ; ? (question mark): The hotstring will be triggered even when it is inside another word; that is, when the character typed immediately before it is alphanumeric. 
 ; * (asterisk):      An ending character (e.g. Space, ., or Enter) is not required to trigger the hotstring
 
@@ -1887,7 +1889,7 @@
 :*?:rebase --c`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
 :*?:rebase --con`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
 :*?:rebase --cont`t::add "$(git rev-parse --show-cdup | sed 's/{^}$/./')" && git rebase --continue
-:*?:echo to stderr::>&2
+:*?:echo to stderr::>&2{Space}echo
 :*?:redirect to null::&>{Space}/dev/null
 :*?:argo apply::argo submit
 :*?:glcoud::gcloud
