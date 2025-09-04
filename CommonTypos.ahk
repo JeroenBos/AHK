@@ -1813,7 +1813,7 @@
 :*?:cspor::cspro
 :*?:buji::bui
 :*?:awlay::alway
-:*?:reomve:remove
+:*?:reomve::remove
 :*?:resuorce::resource
 ::lgos::logs
 :*?:nagiva::naviga
