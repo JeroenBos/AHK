@@ -1920,7 +1920,10 @@
 :*?:git revert cpu::git update-index --no-assume-unchanged '/c/git/surgery-planning/docker-compose.yaml' && git checkout -- '/c/git/surgery-planning/docker-compose.yaml'
 :*?:estlin::eslint
 :*?:eslitn::eslint
-:c*:MIrjam::Mirjam
+:*?:cljs::
+    SendRaw console.log(JSON.stringify({}, null, 4))
+    SendInput {Left 12}
+return
 
 ; Norwegian
 :*?:fodels::fødsels
@@ -1931,7 +1934,6 @@
 
 ; Dutch
 ::neit::niet
-:c:Begum::Begüm
 ::misshcien::misschien
 
 ; Miscellaneous
