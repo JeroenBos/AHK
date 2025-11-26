@@ -1924,6 +1924,7 @@
     SendRaw console.log(JSON.stringify({}, null, 4))
     SendInput {Left 12}
 return
+:*?:consoel::console
 
 ; Norwegian
 :*?:fodels::fødsels
