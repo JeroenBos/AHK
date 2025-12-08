@@ -587,6 +587,7 @@
 :*?:likly::likely
 :*:lisense::license  ; counterexample: intellisense
 :*?:littel::little
+::litn::lint
 :*?:litttle::little
 :*?:liuke::like
 :*?:liveing::living
@@ -1162,6 +1163,7 @@
 :*?:elemetn::element
 :*?:specifeid::specified
 :*?:giut::git::
+::giot::git::
 ::tiem::time
 :*?:runtiem::runtime
 :*?:nubmer::number
@@ -1861,7 +1863,8 @@
 :?*:source /venv::source /venv/bin/activate
 :*:parquest::parquet
 :*?:git yarn::yarn
-:*?:gitp u::git pu
+:*?:gitp u::git{Space}pu
+:*?:git s poop::git{Space}s{Space}pop
 :*?:poetry run flight server::STORAGE_PATH=TMP poetry run python -m tests.arrow.server
 :*?:poetry activate::deactivate; source "$(dirname $(poetry run which python))/activate"
 :*?:poetry clean::poetry env remove "$(which python | head -n 1)" && poetry install && source "$(dirname $(poetry run which python | head -n 1))/activate"
